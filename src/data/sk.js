@@ -1,7 +1,6 @@
 const data = [
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/citronhaj-korenicka-cire-sklo-nehrdzavejuca-ocel__1196248_pe902858_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/citronhaj-korenicka-cire-sklo-nehrdzavejuca-ocel__1196248_pe902858_s5.jpg?f=xxs',
     name: 'CITRONHAJ',
     description: 'Korenička, 10 cl',
     price: '3.99',
@@ -9,8 +8,7 @@ const data = [
     subscript: '/4 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/lysekil-nastenny-panel-obojstranny-biela-svetlosiva-imitacia-betonu__0817922_pe774175_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/lysekil-nastenny-panel-obojstranny-biela-svetlosiva-imitacia-betonu__0817922_pe774175_s5.jpg?f=xxs',
     name: 'LYSEKIL',
     description: 'Nástenný panel, 119.6x55 cm',
     price: '34.99',
@@ -25,8 +23,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/kallax-policovy-diel-biela-80275887/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/hemnes-rozkladacia-postel-3-zasuv-2-matr-biela-afjaell-tvrdy__1180460_pe896336_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/hemnes-rozkladacia-postel-3-zasuv-2-matr-biela-afjaell-tvrdy__1180460_pe896336_s5.jpg?f=xxs',
     name: 'HEMNES',
     description: 'Rozkladacia posteľ, 3 zásuv/2 matr, 80x200 cm',
     price: '488.8',
@@ -61,8 +58,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/nissafors-vozik-cierna-20399777/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/afjaell-penovy-matrac-tvrdy-biela__0986620_pe818094_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/afjaell-penovy-matrac-tvrdy-biela__0986620_pe818094_s5.jpg?f=xxs',
     name: 'ÅFJÄLL',
     description: 'Penový matrac, 80x200 cm',
     price: '79.9',
@@ -76,8 +72,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/droena-skatula-tmavosiva-10443974/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-nadoba-s-vrchnakom-na-such-potr-priehladna-biela__0711434_pe728250_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-nadoba-s-vrchnakom-na-such-potr-priehladna-biela__0711434_pe728250_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Nádoba s vrchnákom na such potr, 1.3 l',
     price: '2.99',
@@ -92,16 +87,14 @@ const data = [
     subscript: '/6 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/nattslaenda-postelna-bielizen-kvetinove-vzory-viacfarebny__0977177_pe813446_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/nattslaenda-postelna-bielizen-kvetinove-vzory-viacfarebny__0977177_pe813446_s5.jpg?f=xxs',
     name: 'NATTSLÄNDA',
     description: 'Posteľná bielizeň, 150x200/50x60 cm',
     price: '39.99',
     link: 'https://www.ikea.com/sk/sk/p/nattslaenda-postelna-bielizen-kvetinove-vzory-viacfarebny-20508012/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/dragon-24-dielna-suprava-priborov-nehrdzavejuca-ocel__0711372_pe728215_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/dragon-24-dielna-suprava-priborov-nehrdzavejuca-ocel__0711372_pe728215_s5.jpg?f=xxs',
     name: 'DRAGON',
     description: '24-dielna súprava príborov',
     price: '14.99',
@@ -136,8 +129,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/gurli-potah-na-vankus-zlata-zlta-20395821/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/vilborg-zatemnovacie-zavesy-1-par-bezova__0598849_pe677835_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/vilborg-zatemnovacie-zavesy-1-par-bezova__0598849_pe677835_s5.jpg?f=xxs',
     name: 'VILBORG',
     description: 'Zatemňovacie závesy, 1 pár, 145x300 cm',
     price: '59.9',
@@ -158,8 +150,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/variera-predelovacia-polica-biela-60136623/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/istad-uzatvaratelne-vrecko-vzorovany-cierna-zlta__1105132_pe868034_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/istad-uzatvaratelne-vrecko-vzorovany-cierna-zlta__1105132_pe868034_s5.jpg?f=xxs',
     name: 'ISTAD',
     description: 'Uzatvárateľné vrecko, 2.5/1.2 l',
     price: '2.99',
@@ -181,8 +172,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/dvala-plachta-biela-50356564/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-hrniec-s-pokrievkou-nehrdzavejuca-ocel__1006171_pe825756_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-hrniec-s-pokrievkou-nehrdzavejuca-ocel__1006171_pe825756_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Hrniec s pokrievkou, 3.0 l',
     price: '12.99',
@@ -203,8 +193,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/riklig-kanvica-na-caj-sklo-90150071/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/vidga-trojita-kolajnicka-stropne-kovania-v-cene-biela__0968271_pe810387_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/vidga-trojita-kolajnicka-stropne-kovania-v-cene-biela__0968271_pe810387_s5.jpg?f=xxs',
     name: 'VIDGA',
     description: 'Trojitá koľajnička, 140 cm',
     price: '16.99',
@@ -212,16 +201,14 @@ const data = [
     subscript: '/1,4 m',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/inner-vnutorny-vankus-biela-tvrdy__1138127_pe879848_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/inner-vnutorny-vankus-biela-tvrdy__1138127_pe879848_s5.jpg?f=xxs',
     name: 'INNER',
     description: 'Vnútorný vankúš, 50x50 cm',
     price: '3',
     link: 'https://www.ikea.com/sk/sk/p/inner-vnutorny-vankus-biela-tvrdy-50550702/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/skoghall-drziak-samolepiaci-pochromovane__0583461_pe671221_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/skoghall-drziak-samolepiaci-pochromovane__0583461_pe671221_s5.jpg?f=xxs',
     name: 'SKOGHALL',
     description: 'Držiak, samolepiaci',
     price: '5.99',
@@ -229,32 +216,28 @@ const data = [
     subscript: '/3 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/hemnes-ram-rozkl-postele-s-3-zasuvkami-biela__1180454_pe896328_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/hemnes-ram-rozkl-postele-s-3-zasuvkami-biela__1180454_pe896328_s5.jpg?f=xxs',
     name: 'HEMNES',
     description: 'Rám rozkl postele s 3 zásuvkami, 80x200 cm',
     price: '329',
     link: 'https://www.ikea.com/sk/sk/p/hemnes-ram-rozkl-postele-s-3-zasuvkami-biela-90349326/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/vattenverk-rohoz-vnutorna-tmavosiva__1046430_pe842962_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/vattenverk-rohoz-vnutorna-tmavosiva__1046430_pe842962_s5.jpg?f=xxs',
     name: 'VATTENVERK',
     description: 'Rohož, vnútorná, 60x90 cm',
     price: '12.99',
     link: 'https://www.ikea.com/sk/sk/p/vattenverk-rohoz-vnutorna-tmavosiva-00517017/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-doza-na-potraviny-obdlznik-sklo__0711431_pe728247_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-doza-na-potraviny-obdlznik-sklo__0711431_pe728247_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Dóza na potraviny, 1.0 l',
     price: '1.99',
     link: 'https://www.ikea.com/sk/sk/p/ikea-365-doza-na-potraviny-obdlznik-sklo-70359199/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/faergklar-servis-18-ks-matny-svetlotyrkysova__1188585_pe899530_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/faergklar-servis-18-ks-matny-svetlotyrkysova__1188585_pe899530_s5.jpg?f=xxs',
     name: 'FÄRGKLAR',
     description: 'Servis, 18 ks',
     price: '34.99',
@@ -268,8 +251,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/brimnes-trojdverova-skrina-biela-40407922/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-doza-na-potraviny-s-vrchnakom-obdlznik-sklo-plast__0594322_pe675641_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-doza-na-potraviny-s-vrchnakom-obdlznik-sklo-plast__0594322_pe675641_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Dóza na potraviny s vrchnákom, 1.0 l',
     price: '3.99',
@@ -304,8 +286,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/ivar-1-sekcia-police-borovica-s29403845/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/aengsjoen-skrinka-na-umyvadlo-so-zasuvkami-dubovy-efekt__1256039_pe924875_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/aengsjoen-skrinka-na-umyvadlo-so-zasuvkami-dubovy-efekt__1256039_pe924875_s5.jpg?f=xxs',
     name: 'ÄNGSJÖN',
     description: 'Skrinka na umývadlo so zásuvkami, 80x48x63 cm',
     price: '179',
@@ -333,16 +314,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/fiskbo-ram-biela-80300373/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/hallbar-nadoba-s-vrchnakom-svetlosiva__0742725_pe742784_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/hallbar-nadoba-s-vrchnakom-svetlosiva__0742725_pe742784_s5.jpg?f=xxs',
     name: 'HÅLLBAR',
     description: 'Nádoba s vrchnákom, 22 l',
     price: '9.99',
     link: 'https://www.ikea.com/sk/sk/p/hallbar-nadoba-s-vrchnakom-svetlosiva-20420203/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/stoense-koberec-nizky-vlas-kremova__0624386_pe691799_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/stoense-koberec-nizky-vlas-kremova__0624386_pe691799_s5.jpg?f=xxs',
     name: 'STOENSE',
     description: 'Koberec, nízky vlas, 170x240 cm',
     price: '99.9',
@@ -356,24 +335,21 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/lindbyn-zrkadlo-cierna-30458610/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/vardagen-doza-s-vrchnakom-cire-sklo__0713736_pe729735_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/vardagen-doza-s-vrchnakom-cire-sklo__0713736_pe729735_s5.jpg?f=xxs',
     name: 'VARDAGEN',
     description: 'Dóza s vrchnákom, 1.9 l',
     price: '5.99',
     link: 'https://www.ikea.com/sk/sk/p/vardagen-doza-s-vrchnakom-cire-sklo-00291928/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/trotten-skrinka-s-3-zasuvkami-kolieska-biela__1009427_pe827592_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/trotten-skrinka-s-3-zasuvkami-kolieska-biela__1009427_pe827592_s5.jpg?f=xxs',
     name: 'TROTTEN',
     description: 'Skrinka s 3 zásuvkami/kolieska',
     price: '79.9',
     link: 'https://www.ikea.com/sk/sk/p/trotten-skrinka-s-3-zasuvkami-kolieska-biela-80485098/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/variera-podlozka-do-zasuvky-priehladna__0626880_pe693058_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/variera-podlozka-do-zasuvky-priehladna__0626880_pe693058_s5.jpg?f=xxs',
     name: 'VARIERA',
     description: 'Podložka do zásuvky, 150 cm',
     price: '3.49',
@@ -388,24 +364,21 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/lack-prirucny-stolik-biela-30449908/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/lauters-stojacia-lampa-jasen-biela__0663863_pe712536_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/lauters-stojacia-lampa-jasen-biela__0663863_pe712536_s5.jpg?f=xxs',
     name: 'LAUTERS',
     description: 'Stojacia lampa',
     price: '64.9',
     link: 'https://www.ikea.com/sk/sk/p/lauters-stojacia-lampa-jasen-biela-30405042/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-miska-zaoblene-steny-biela__0712930_pe729142_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-miska-zaoblene-steny-biela__0712930_pe729142_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Miska, 16 cm',
     price: '2.99',
     link: 'https://www.ikea.com/sk/sk/p/ikea-365-miska-zaoblene-steny-biela-20278351/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-riad-6-ks-nehrdzavejuca-ocel__1006151_pe825738_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-riad-6-ks-nehrdzavejuca-ocel__1006151_pe825738_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Riad, 6 ks',
     price: '36.99',
@@ -419,8 +392,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/samla-skatula-priehladna-30102974/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/toftbo-kupelnova-predlozka-sivobiela-melirovana__0640938_pe700145_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/toftbo-kupelnova-predlozka-sivobiela-melirovana__0640938_pe700145_s5.jpg?f=xxs',
     name: 'TOFTBO',
     description: 'Kúpeľňová predlożka, 50x80 cm',
     price: '7.99',
@@ -434,8 +406,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/malm-komoda-s-2-zasuvkami-biela-80214549/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/foersiktig-stupienok-biela-zelena__0712332_pe728740_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/foersiktig-stupienok-biela-zelena__0712332_pe728740_s5.jpg?f=xxs',
     name: 'FÖRSIKTIG',
     description: 'Stupienok',
     price: '2.99',
@@ -450,32 +421,28 @@ const data = [
     subscript: '/30 m',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/aendlig-noze-3-ks-svetlosiva-biela__0210168_pe363627_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/aendlig-noze-3-ks-svetlosiva-biela__0210168_pe363627_s5.jpg?f=xxs',
     name: 'ÄNDLIG',
     description: 'Nože, 3 ks',
     price: '6.99',
     link: 'https://www.ikea.com/sk/sk/p/aendlig-noze-3-ks-svetlosiva-biela-70257624/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/markus-kancelarska-stolicka-vissle-tmavosiva__0724714_pe734597_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/markus-kancelarska-stolicka-vissle-tmavosiva__0724714_pe734597_s5.jpg?f=xxs',
     name: 'MARKUS',
     description: 'Kancelárska stolička',
     price: '159',
     link: 'https://www.ikea.com/sk/sk/p/markus-kancelarska-stolicka-vissle-tmavosiva-70261150/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/vattenkar-stojan-na-notebook-monitor-breza__1149392_pe884019_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/vattenkar-stojan-na-notebook-monitor-breza__1149392_pe884019_s5.jpg?f=xxs',
     name: 'VATTENKAR',
     description: 'Stojan na notebook/monitor, 52x26 cm',
     price: '24.99',
     link: 'https://www.ikea.com/sk/sk/p/vattenkar-stojan-na-notebook-monitor-breza-80541565/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/smycka-umely-list-eukalypt-zelena__0638910_pe699263_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/smycka-umely-list-eukalypt-zelena__0638910_pe699263_s5.jpg?f=xxs',
     name: 'SMYCKA',
     description: 'Umelý list, 65 cm',
     price: '3.49',
@@ -496,16 +463,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/mosslanda-lista-na-obrazky-biela-90292103/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/arstid-stolova-lampa-mosadz-biela__0609329_pe684454_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/arstid-stolova-lampa-mosadz-biela__0609329_pe684454_s5.jpg?f=xxs',
     name: 'ÅRSTID',
     description: 'Stolová lampa',
     price: '24.99',
     link: 'https://www.ikea.com/sk/sk/p/arstid-stolova-lampa-mosadz-biela-30321373/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/istad-uzatvaratelne-vrecko-vzorovany-zelena__1105120_pe868046_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/istad-uzatvaratelne-vrecko-vzorovany-zelena__1105120_pe868046_s5.jpg?f=xxs',
     name: 'ISTAD',
     description: 'Uzatvárateľné vrecko, 6/4.5 l',
     price: '3.49',
@@ -520,8 +485,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/nymane-led-stropna-lampa-biela-60526047/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/styrbar-dialkove-ovladanie-inteligentne-biela__0956695_pe804773_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/styrbar-dialkove-ovladanie-inteligentne-biela__0956695_pe804773_s5.jpg?f=xxs',
     name: 'STYRBAR',
     description: 'Diaľkové ovládanie',
     price: '9.99',
@@ -557,24 +521,21 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/cylinder-vaza-3-ks-cire-sklo-60175092/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/eklatant-doza-s-vrchnakom-cire-sklo-bambus__0427267_pe582740_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/eklatant-doza-s-vrchnakom-cire-sklo-bambus__0427267_pe582740_s5.jpg?f=xxs',
     name: 'EKLATANT',
     description: 'Dóza s vrchnákom, 0.8 l',
     price: '4.99',
     link: 'https://www.ikea.com/sk/sk/p/eklatant-doza-s-vrchnakom-cire-sklo-bambus-10376601/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/annons-riad-5-ks-sklo-nehrdzavejuca-ocel__43510_pe139263_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/annons-riad-5-ks-sklo-nehrdzavejuca-ocel__43510_pe139263_s5.jpg?f=xxs',
     name: 'ANNONS',
     description: 'Riad, 5 ks',
     price: '14.99',
     link: 'https://www.ikea.com/sk/sk/p/annons-riad-5-ks-sklo-nehrdzavejuca-ocel-90207402/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-panvica-nehrdzavejuca-ocel-nelepiva-vrstva__1006161_pe825746_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-panvica-nehrdzavejuca-ocel-nelepiva-vrstva__1006161_pe825746_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Panvica, 28 cm',
     price: '14.99',
@@ -588,8 +549,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/pax-ram-skrine-biela-50214560/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/nattgibba-kos-na-bielizen-vrba-vyrobene-rucne__1149878_pe884244_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/nattgibba-kos-na-bielizen-vrba-vyrobene-rucne__1149878_pe884244_s5.jpg?f=xxs',
     name: 'NATTGIBBA',
     description: 'Kôš na bielizeň, 100 l',
     price: '59.99',
@@ -610,24 +570,21 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/vaerdera-salka-podsalka-biela-60277463/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/jokkmokk-stol-a-4-stolicky-antikove-moridlo__0736929_pe740809_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/jokkmokk-stol-a-4-stolicky-antikove-moridlo__0736929_pe740809_s5.jpg?f=xxs',
     name: 'JOKKMOKK',
     description: 'Stôl a 4 stoličky',
     price: '149',
     link: 'https://www.ikea.com/sk/sk/p/jokkmokk-stol-a-4-stolicky-antikove-moridlo-50211104/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/samla-skatula-s-vrchnakom-priehladna__0711813_pe728492_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/samla-skatula-s-vrchnakom-priehladna__0711813_pe728492_s5.jpg?f=xxs',
     name: 'SAMLA',
     description: 'Škatuľa s vrchnákom, 57x39x28 cm/45 l',
     price: '9.99',
     link: 'https://www.ikea.com/sk/sk/p/samla-skatula-s-vrchnakom-priehladna-s69440761/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/pruta-doza-na-potraviny-priehladna-zlta__0711387_pe728178_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/pruta-doza-na-potraviny-priehladna-zlta__0711387_pe728178_s5.jpg?f=xxs',
     name: 'PRUTA',
     description: 'Dóza na potraviny, 0.6 l',
     price: '1.29',
@@ -635,16 +592,14 @@ const data = [
     subscript: '/3 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/bygglek-skatula-lego-r-s-vrchnakom__0807576_pe770439_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/bygglek-skatula-lego-r-s-vrchnakom__0807576_pe770439_s5.jpg?f=xxs',
     name: 'BYGGLEK',
     description: 'Škatuľa LEGO® s vrchnákom, 35x26x12 cm',
     price: '19.99',
     link: 'https://www.ikea.com/sk/sk/p/bygglek-skatula-lego-r-s-vrchnakom-10354208/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/vathult-svetlo-led-skrinka-zrkadlo-hlinikova__1008969_pe827396_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/vathult-svetlo-led-skrinka-zrkadlo-hlinikova__1008969_pe827396_s5.jpg?f=xxs',
     name: 'VÅTHULT',
     description: 'Svetlo LED skrinka/zrkadlo, 350 mm',
     price: '17.99',
@@ -658,8 +613,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/besta-skrinka-na-tv-biela-00474070/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/trensum-zrkadlo-nehrdzavejuca-ocel__0637644_pe698434_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/trensum-zrkadlo-nehrdzavejuca-ocel__0637644_pe698434_s5.jpg?f=xxs',
     name: 'TRENSUM',
     description: 'Zrkadlo',
     price: '6.99',
@@ -674,8 +628,7 @@ const data = [
     subscript: '/8 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/grusnarv-nepremokava-ochrana-matraca__0790191_pe764297_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/grusnarv-nepremokava-ochrana-matraca__0790191_pe764297_s5.jpg?f=xxs',
     name: 'GRUSNARV',
     description: 'Nepremokavá ochrana matraca, 90x200 cm',
     price: '10.99',
@@ -689,8 +642,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/len-paplon-do-postielky-biela-60028510/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/mopsig-16-dielna-suprava-priborov__0759952_pe750550_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/mopsig-16-dielna-suprava-priborov__0759952_pe750550_s5.jpg?f=xxs',
     name: 'MOPSIG',
     description: '16-dielna súprava príborov',
     price: '4.99',
@@ -720,40 +672,35 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/smasporre-paplon-mierne-teply-70457005/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/kura-obojstranna-postel-biela-borovica__0636268_pe697768_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/kura-obojstranna-postel-biela-borovica__0636268_pe697768_s5.jpg?f=xxs',
     name: 'KURA',
     description: 'Obojstranná posteľ, 90x200 cm',
     price: '249',
     link: 'https://www.ikea.com/sk/sk/p/kura-obojstranna-postel-biela-borovica-80253809/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/perjohan-lavica-s-uloznym-priestorom-borovica__0948199_pe798912_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/perjohan-lavica-s-uloznym-priestorom-borovica__0948199_pe798912_s5.jpg?f=xxs',
     name: 'PERJOHAN',
     description: 'Lavica s úložným priestorom, 100 cm',
     price: '59.9',
     link: 'https://www.ikea.com/sk/sk/p/perjohan-lavica-s-uloznym-priestorom-borovica-60485339/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/skruvsta-otocna-stolicka-vissle-siva__0724705_pe734587_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/skruvsta-otocna-stolicka-vissle-siva__0724705_pe734587_s5.jpg?f=xxs',
     name: 'SKRUVSTA',
     description: 'Otočná stolička',
     price: '89.9',
     link: 'https://www.ikea.com/sk/sk/p/skruvsta-otocna-stolicka-vissle-siva-30280004/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/snudda-otocny-podnos-masivne-drevo__1100240_pe866087_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/snudda-otocny-podnos-masivne-drevo__1100240_pe866087_s5.jpg?f=xxs',
     name: 'SNUDDA',
     description: 'Otočný podnos, 39 cm',
     price: '7.99',
     link: 'https://www.ikea.com/sk/sk/p/snudda-otocny-podnos-masivne-drevo-90074483/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/pingla-skatula-s-vrchnakom-cierna-prirodna__0711329_pe728155_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/pingla-skatula-s-vrchnakom-cierna-prirodna__0711329_pe728155_s5.jpg?f=xxs',
     name: 'PINGLA',
     description: 'Škatuľa s vrchnákom, 56x37x36 cm',
     price: '5.99',
@@ -761,8 +708,7 @@ const data = [
     subscript: '/2 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/naevlinge-bodove-osvetlenie-led-biela__0710474_pe727575_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/naevlinge-bodove-osvetlenie-led-biela__0710474_pe727575_s5.jpg?f=xxs',
     name: 'NÄVLINGE',
     description: 'Bodové osvetlenie LED',
     price: '14.99',
@@ -783,24 +729,21 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/justina-podlozka-na-sedenie-siva-60175006/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/koncis-plech-na-pecenie-s-mriezkou-nehrdzavejuca-ocel__0710557_pe727643_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/koncis-plech-na-pecenie-s-mriezkou-nehrdzavejuca-ocel__0710557_pe727643_s5.jpg?f=xxs',
     name: 'KONCIS',
     description: 'Plech na pečenie s mriežkou, 40x32 cm',
     price: '19.99',
     link: 'https://www.ikea.com/sk/sk/p/koncis-plech-na-pecenie-s-mriezkou-nehrdzavejuca-ocel-10099053/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/arv-broellop-servirovaci-stojan-s-vrchnakom-cire-sklo__0713433_pe729526_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/arv-broellop-servirovaci-stojan-s-vrchnakom-cire-sklo__0713433_pe729526_s5.jpg?f=xxs',
     name: 'ARV BRÖLLOP',
     description: 'Servírovací stojan s vrchnákom, 29 cm',
     price: '15.99',
     link: 'https://www.ikea.com/sk/sk/p/arv-broellop-servirovaci-stojan-s-vrchnakom-cire-sklo-40125550/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/tagghaj-panvica-nelepiva-vrstva-cierna__1172496_pe893318_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/tagghaj-panvica-nelepiva-vrstva-cierna__1172496_pe893318_s5.jpg?f=xxs',
     name: 'TAGGHAJ',
     description: 'Panvica, 24 cm',
     price: '3.99',
@@ -828,56 +771,49 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/hemmahos-koberec-siva-60356691/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/solhetta-ziarovka-led-e27-1521-lumenov-stmievatelne-gula-opalova-biela__0989131_pe818397_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/solhetta-ziarovka-led-e27-1521-lumenov-stmievatelne-gula-opalova-biela__0989131_pe818397_s5.jpg?f=xxs',
     name: 'SOLHETTA',
     description: 'Žiarovka LED E27 1521 lúmenov',
     price: '4.99',
     link: 'https://www.ikea.com/sk/sk/p/solhetta-ziarovka-led-e27-1521-lumenov-stmievatelne-gula-opalova-biela-20509993/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/lenast-nepremokava-ochrana-matraca__0716562_pe730923_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/lenast-nepremokava-ochrana-matraca__0716562_pe730923_s5.jpg?f=xxs',
     name: 'LENAST',
     description: 'Nepremokavá ochrana matraca, 80x200 cm',
     price: '17.99',
     link: 'https://www.ikea.com/sk/sk/p/lenast-nepremokava-ochrana-matraca-50440332/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/blavingad-plysova-hracka-chobotnica-zlta__1088894_pe861308_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/blavingad-plysova-hracka-chobotnica-zlta__1088894_pe861308_s5.jpg?f=xxs',
     name: 'BLÅVINGAD',
     description: 'Plyšová hračka, 50 cm',
     price: '14.99',
     link: 'https://www.ikea.com/sk/sk/p/blavingad-plysova-hracka-chobotnica-zlta-20522107/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/indira-postelna-prikryvka-svetlomodra__0981193_pe815278_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/indira-postelna-prikryvka-svetlomodra__0981193_pe815278_s5.jpg?f=xxs',
     name: 'INDIRA',
     description: 'Posteľná prikrývka, 150x250 cm',
     price: '12.99',
     link: 'https://www.ikea.com/sk/sk/p/indira-postelna-prikryvka-svetlomodra-50506851/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/nordmaerke-stojan-na-bezdrotove-nabijanie-bambus__1074485_pe817659_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/nordmaerke-stojan-na-bezdrotove-nabijanie-bambus__1074485_pe817659_s5.jpg?f=xxs',
     name: 'NORDMÄRKE',
     description: 'Stojan na bezdrôtové nabíjanie',
     price: '14.99',
     link: 'https://www.ikea.com/sk/sk/p/nordmaerke-stojan-na-bezdrotove-nabijanie-bambus-50489998/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/laemplig-podlozka-pod-hrniec-nehrdzavejuca-ocel__0711759_pe728451_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/laemplig-podlozka-pod-hrniec-nehrdzavejuca-ocel__0711759_pe728451_s5.jpg?f=xxs',
     name: 'LÄMPLIG',
     description: 'Podložka pod hrniec, 50x28 cm',
     price: '4.99',
     link: 'https://www.ikea.com/sk/sk/p/laemplig-podlozka-pod-hrniec-nehrdzavejuca-ocel-30111087/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/gubbroera-gumova-stierka-cierna-biela__1121315_pe874203_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/gubbroera-gumova-stierka-cierna-biela__1121315_pe874203_s5.jpg?f=xxs',
     name: 'GUBBRÖRA',
     description: 'Gumová stierka',
     price: '1.19',
@@ -891,8 +827,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/forsand-dvere-biela-10442385/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-doza-na-potraviny-okruhly-sklo__0711421_pe728237_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-doza-na-potraviny-okruhly-sklo__0711421_pe728237_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Dóza na potraviny, 600 ml',
     price: '2.49',
@@ -913,56 +848,49 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/pax-ram-skrine-biela-20214571/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/strandmon-kreslo-a-podnozka-skiftebo-zlta__1094844_pe863644_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/strandmon-kreslo-a-podnozka-skiftebo-zlta__1094844_pe863644_s5.jpg?f=xxs',
     name: 'STRANDMON',
     description: 'Kreslo a podnožka',
     price: '298.9',
     link: 'https://www.ikea.com/sk/sk/p/strandmon-kreslo-a-podnozka-skiftebo-zlta-s59483906/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/eket-skrinka-s-2-dverami-a-1-policou-biela__0472902_pe614311_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/eket-skrinka-s-2-dverami-a-1-policou-biela__0472902_pe614311_s5.jpg?f=xxs',
     name: 'EKET',
     description: 'Skrinka s 2 dverami a 1 policou, 70x35x70 cm',
     price: '95',
     link: 'https://www.ikea.com/sk/sk/p/eket-skrinka-s-2-dverami-a-1-policou-biela-20333951/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/satsumas-stojan-na-kvet-bambus-biela__0635815_pe697397_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/satsumas-stojan-na-kvet-bambus-biela__0635815_pe697397_s5.jpg?f=xxs',
     name: 'SATSUMAS',
     description: 'Stojan na kvet, 78 cm',
     price: '44.99',
     link: 'https://www.ikea.com/sk/sk/p/satsumas-stojan-na-kvet-bambus-biela-40258154/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/underverk-zabudovany-odsavac-nehrdzavejuca-ocel__0755570_pe748469_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/underverk-zabudovany-odsavac-nehrdzavejuca-ocel__0755570_pe748469_s5.jpg?f=xxs',
     name: 'UNDERVERK',
     description: 'Zabudovaný odsávač, 60 cm',
     price: '229',
     link: 'https://www.ikea.com/sk/sk/p/underverk-zabudovany-odsavac-nehrdzavejuca-ocel-70389139/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/pelarboj-led-stolova-lampa-viacfarebny__0689134_pe722837_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/pelarboj-led-stolova-lampa-viacfarebny__0689134_pe722837_s5.jpg?f=xxs',
     name: 'PELARBOJ',
     description: 'LED stolová lampa',
     price: '24.99',
     link: 'https://www.ikea.com/sk/sk/p/pelarboj-led-stolova-lampa-viacfarebny-20401515/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/mittled-pasik-led-kuch-prac-doska-stmievatelne-biela__0869936_pe781531_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/mittled-pasik-led-kuch-prac-doska-stmievatelne-biela__0869936_pe781531_s5.jpg?f=xxs',
     name: 'MITTLED',
     description: 'Pásik LED, kuch prac. doska, 60 cm',
     price: '19.99',
     link: 'https://www.ikea.com/sk/sk/p/mittled-pasik-led-kuch-prac-doska-stmievatelne-biela-60528584/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/naemmaroe-zastena-morena-svetlohneda-vnutorne-exterier__1137840_pe879763_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/naemmaroe-zastena-morena-svetlohneda-vnutorne-exterier__1137840_pe879763_s5.jpg?f=xxs',
     name: 'NÄMMARÖ',
     description: 'Zástena, 140x80x50 cm',
     price: '79.9',
@@ -990,8 +918,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/pax-ram-skrine-biela-80214568/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/idealisk-struhadlo-nehrdzavejuca-ocel__0713134_pe729282_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/idealisk-struhadlo-nehrdzavejuca-ocel__0713134_pe729282_s5.jpg?f=xxs',
     name: 'IDEALISK',
     description: 'Strúhadlo',
     price: '2.99',
@@ -1012,8 +939,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/kolon-ochrana-na-podlahu-44881100/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/omtaenksam-lyzica-na-topanky-antracit__0811612_pe771730_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/omtaenksam-lyzica-na-topanky-antracit__0811612_pe771730_s5.jpg?f=xxs',
     name: 'OMTÄNKSAM',
     description: 'Lyžica na topánky',
     price: '2.99',
@@ -1028,24 +954,21 @@ const data = [
     subscript: '/100 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/hygienisk-zabudovatelna-umyvacka-ikea-500__0846369_pe779041_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/hygienisk-zabudovatelna-umyvacka-ikea-500__0846369_pe779041_s5.jpg?f=xxs',
     name: 'HYGIENISK',
     description: 'Zabudovateľná umývačka, 60 cm',
     price: '529',
     link: 'https://www.ikea.com/sk/sk/p/hygienisk-zabudovatelna-umyvacka-ikea-500-20475610/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/hopploes-doska-na-krajanie-zelena__0403910_pe566109_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/hopploes-doska-na-krajanie-zelena__0403910_pe566109_s5.jpg?f=xxs',
     name: 'HOPPLÖS',
     description: 'Doska na krájanie, 24x15 cm',
     price: '0.79',
     link: 'https://www.ikea.com/sk/sk/p/hopploes-doska-na-krajanie-zelena-10280255/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/gnarp-kuchynske-naradie-3-ks-cierna__0711742_pe728431_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/gnarp-kuchynske-naradie-3-ks-cierna__0711742_pe728431_s5.jpg?f=xxs',
     name: 'GNARP',
     description: 'Kuchynské náradie, 3 ks',
     price: '1.49',
@@ -1059,8 +982,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/hemlagad-panvica-na-palacinky-30467959/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/justina-podlozka-na-stolicku-siva__1163432_pe890175_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/justina-podlozka-na-stolicku-siva__1163432_pe890175_s5.jpg?f=xxs',
     name: 'JUSTINA',
     description: 'Podložka na stoličku, 42/35x40x4 cm',
     price: '19.96',
@@ -1082,8 +1004,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/vagsjoen-osuska-svetlobezova-10494609/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/laerande-stol-s-vytahovacim-uloznym-dielom-biela__1041737_pe841136_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/laerande-stol-s-vytahovacim-uloznym-dielom-biela__1041737_pe841136_s5.jpg?f=xxs',
     name: 'LÄRANDE',
     description: 'Stôl s vyťahovacím úložným dielom, 120x58 cm',
     price: '139',
@@ -1098,8 +1019,7 @@ const data = [
     subscript: '/2,46 m',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/runnen-podlahova-krytina-vonkajsia-hneda-morena__0709178_pe726855_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/runnen-podlahova-krytina-vonkajsia-hneda-morena__0709178_pe726855_s5.jpg?f=xxs',
     name: 'RUNNEN',
     description: 'Podlahová krytina, vonkajšia, 0.81 m²',
     price: '24.99',
@@ -1107,8 +1027,7 @@ const data = [
     subscript: '/ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ladda-nabijatelna-bateria-hr06-aa-1-2v__0968547_pe810493_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ladda-nabijatelna-bateria-hr06-aa-1-2v__0968547_pe810493_s5.jpg?f=xxs',
     name: 'LADDA',
     description: 'Nabíjateľná batéria, 2450 mAh',
     price: '7.99',
@@ -1116,8 +1035,7 @@ const data = [
     subscript: '/4 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/fejka-umela-rastlina-v-kvetinaci-na-von-dnu-zavesny__0748917_pe745318_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/fejka-umela-rastlina-v-kvetinaci-na-von-dnu-zavesny__0748917_pe745318_s5.jpg?f=xxs',
     name: 'FEJKA',
     description: 'Umelá rastlina v kvetináči, 9 cm',
     price: '6.99',
@@ -1131,8 +1049,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/besta-ram-biela-10245846/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-hrniec-wok-nehrdzavejuca-ocel-nelepiva-vrstva__1006185_pe825770_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-hrniec-wok-nehrdzavejuca-ocel-nelepiva-vrstva__1006185_pe825770_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Hrniec wok, 32 cm',
     price: '24.99',
@@ -1146,16 +1063,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/daenka-doska-na-zehlenie-20471612/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/norafors-zavesna-led-lampa-stmievatelne__0959741_pe806182_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/norafors-zavesna-led-lampa-stmievatelne__0959741_pe806182_s5.jpg?f=xxs',
     name: 'NORAFORS',
     description: 'Závesná LED lampa',
     price: '109',
     link: 'https://www.ikea.com/sk/sk/p/norafors-zavesna-led-lampa-stmievatelne-20487590/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/svartra-svetelna-retaz-led-12-ziar-cierna-exterier__1068980_pe853701_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/svartra-svetelna-retaz-led-12-ziar-cierna-exterier__1068980_pe853701_s5.jpg?f=xxs',
     name: 'SVARTRÅ',
     description: 'Svetelná reťaz LED 12 žiar',
     price: '34.99',
@@ -1192,8 +1107,7 @@ const data = [
     subscript: '/3 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/malm-postel-s-uloz-priestorom-biela__0749127_pe745496_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/malm-postel-s-uloz-priestorom-biela__0749127_pe745496_s5.jpg?f=xxs',
     name: 'MALM',
     description: 'Posteľ s úlož. priestorom, 180x200 cm',
     price: '549',
@@ -1214,32 +1128,28 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/fullaenda-spachtla-buk-40288274/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/idealisk-sitko-na-caj-nehrdzavejuca-ocel__0713448_pe729535_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/idealisk-sitko-na-caj-nehrdzavejuca-ocel__0713448_pe729535_s5.jpg?f=xxs',
     name: 'IDEALISK',
     description: 'Sitko na čaj',
     price: '0.99',
     link: 'https://www.ikea.com/sk/sk/p/idealisk-sitko-na-caj-nehrdzavejuca-ocel-46956800/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/tinad-chladnicka-mraznicka-ikea-500-vstavana__0985224_pe818281_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/tinad-chladnicka-mraznicka-ikea-500-vstavana__0985224_pe818281_s5.jpg?f=xxs',
     name: 'TINAD',
     description: 'Chladnička/mraznička, 210/79 l',
     price: '549',
     link: 'https://www.ikea.com/sk/sk/p/tinad-chladnicka-mraznicka-ikea-500-vstavana-60499954/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/nordstaloert-ergonomicky-vankus-na-boku-chrbte__1268412_pe928740_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/nordstaloert-ergonomicky-vankus-na-boku-chrbte__1268412_pe928740_s5.jpg?f=xxs',
     name: 'NORDSTÅLÖRT',
     description: 'Ergonomický vankúš, na boku/chrbte, 35x50 cm',
     price: '19.99',
     link: 'https://www.ikea.com/sk/sk/p/nordstaloert-ergonomicky-vankus-na-boku-chrbte-40560283/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/tornviken-pracovna-plocha-kremova-dub__0736817_pe740760_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/tornviken-pracovna-plocha-kremova-dub__0736817_pe740760_s5.jpg?f=xxs',
     name: 'TORNVIKEN',
     description: 'Pracovná plocha, 126x77 cm',
     price: '399',
@@ -1253,8 +1163,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/pepprig-zmetak-siva-10527087/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-karafa-so-zatkou-cire-sklo-korok__1283158_pe932404_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-karafa-so-zatkou-cire-sklo-korok__1283158_pe932404_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Karafa so zátkou, 1 l',
     price: '3.99',
@@ -1275,16 +1184,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/pax-2-ramy-skrine-biela-s19895283/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/mataelskare-mikrovlnna-rura-ikea-300-nehrdzavejuca-ocel__0754942_pe748188_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/mataelskare-mikrovlnna-rura-ikea-300-nehrdzavejuca-ocel__0754942_pe748188_s5.jpg?f=xxs',
     name: 'MATÄLSKARE',
     description: 'Mikrovlnná rúra',
     price: '249',
     link: 'https://www.ikea.com/sk/sk/p/mataelskare-mikrovlnna-rura-ikea-300-nehrdzavejuca-ocel-40368770/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/naemmaroe-ulozna-skatula-morena-svetlohneda-vnutorne-exterier__1175345_pe894657_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/naemmaroe-ulozna-skatula-morena-svetlohneda-vnutorne-exterier__1175345_pe894657_s5.jpg?f=xxs',
     name: 'NÄMMARÖ',
     description: 'Úložná škatuľa, 80x40x45 cm',
     price: '79.9',
@@ -1313,16 +1220,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/fonnes-dvere-biela-00331057/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/matmaessig-indukcna-varna-doska-ikea-300-cierna__0854606_pe780691_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/matmaessig-indukcna-varna-doska-ikea-300-cierna__0854606_pe780691_s5.jpg?f=xxs',
     name: 'MATMÄSSIG',
     description: 'Indukčná varná doska, 59 cm',
     price: '279',
     link: 'https://www.ikea.com/sk/sk/p/matmaessig-indukcna-varna-doska-ikea-300-cierna-10467093/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/saeljan-pracovna-doska-dubovy-efekt-laminat__0808056_pe770665_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/saeljan-pracovna-doska-dubovy-efekt-laminat__0808056_pe770665_s5.jpg?f=xxs',
     name: 'SÄLJAN',
     description: 'Pracovná doska, 246x3.8 cm',
     price: '74.9',
@@ -1337,32 +1242,28 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/lappviken-dvere-biela-50291676/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/rodret-bezdrotovy-stmievac-vypinac-inteligentne-biela__1180657_pe896397_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/rodret-bezdrotovy-stmievac-vypinac-inteligentne-biela__1180657_pe896397_s5.jpg?f=xxs',
     name: 'RODRET',
     description: 'Bezdrôtový stmievač / vypínač',
     price: '6.99',
     link: 'https://www.ikea.com/sk/sk/p/rodret-bezdrotovy-stmievac-vypinac-inteligentne-biela-80559796/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/besta-policovy-diel-dvierka-biela-lappviken-biela__0119178_pe275370_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/besta-policovy-diel-dvierka-biela-lappviken-biela__0119178_pe275370_s5.jpg?f=xxs',
     name: 'BESTÅ',
     description: 'Policový diel/dvierka, 120x42x64 cm',
     price: '125',
     link: 'https://www.ikea.com/sk/sk/p/besta-policovy-diel-dvierka-biela-lappviken-biela-s59047388/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/naemmaroe-ulozna-skatula-a-predelovaci-panel-exterier-morena-svetlohneda__1174645_pe894565_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/naemmaroe-ulozna-skatula-a-predelovaci-panel-exterier-morena-svetlohneda__1174645_pe894565_s5.jpg?f=xxs',
     name: 'NÄMMARÖ',
     description: 'Úložná škatuľa a predeľovací panel, 80x68x140 cm',
     price: '159.8',
     link: 'https://www.ikea.com/sk/sk/p/naemmaroe-ulozna-skatula-a-predelovaci-panel-exterier-morena-svetlohneda-s29491229/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/jaemlik-vonna-sviecka-v-skle-vanilka-svetlobezova__1060475_pe850035_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/jaemlik-vonna-sviecka-v-skle-vanilka-svetlobezova__1060475_pe850035_s5.jpg?f=xxs',
     name: 'JÄMLIK',
     description: 'Vonná sviečka v skle, 40 hr',
     price: '2.49',
@@ -1376,8 +1277,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/blaliden-vitrina-biela-00501243/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/storjorm-zrk-skrin-2-dv-zab-osv-biela__0640575_pe699923_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/storjorm-zrk-skrin-2-dv-zab-osv-biela__0640575_pe699923_s5.jpg?f=xxs',
     name: 'STORJORM',
     description: 'Zrk. skrin 2 dv/zab. osv, 80x14x96 cm',
     price: '329',
@@ -1398,24 +1298,21 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/fjaellbo-pribornik-cierna-00502799/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/monstera-rastlina-v-kvetinaci-monstera-skvela__0653991_pe708220_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/monstera-rastlina-v-kvetinaci-monstera-skvela__0653991_pe708220_s5.jpg?f=xxs',
     name: 'MONSTERA',
     description: 'Rastlina v kvetináči, 21 cm',
     price: '18.99',
     link: 'https://www.ikea.com/sk/sk/p/monstera-rastlina-v-kvetinaci-monstera-skvela-30349490/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/starkvind-stol-s-cistickou-vzduchu-morena-dubova-dyha-biela-inteligentne__0978608_pe814181_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/starkvind-stol-s-cistickou-vzduchu-morena-dubova-dyha-biela-inteligentne__0978608_pe814181_s5.jpg?f=xxs',
     name: 'STARKVIND',
     description: 'Stôl s čističkou vzduchu',
     price: '169',
     link: 'https://www.ikea.com/sk/sk/p/starkvind-stol-s-cistickou-vzduchu-morena-dubova-dyha-biela-inteligentne-80461945/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/storaetare-papierove-obrusky-biela__0713166_pe729310_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/storaetare-papierove-obrusky-biela__0713166_pe729310_s5.jpg?f=xxs',
     name: 'STORÄTARE',
     description: 'Papierové obrúsky, 30x30 cm',
     price: '1.19',
@@ -1437,16 +1334,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/ivar-polica-borovica-30318163/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/antagen-kefka-na-umyvanie-riadu-biela__1119403_pe873496_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/antagen-kefka-na-umyvanie-riadu-biela__1119403_pe873496_s5.jpg?f=xxs',
     name: 'ANTAGEN',
     description: 'Kefka na umývanie riadu',
     price: '0.39',
     link: 'https://www.ikea.com/sk/sk/p/antagen-kefka-na-umyvanie-riadu-biela-30534223/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/fantastisk-papierove-obrusky-biela__0736402_pe740508_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/fantastisk-papierove-obrusky-biela__0736402_pe740508_s5.jpg?f=xxs',
     name: 'FANTASTISK',
     description: 'Papierové obrúsky, 40x40 cm',
     price: '2.69',
@@ -1454,8 +1349,7 @@ const data = [
     subscript: '/100 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/symfonisk-regalove-wifi-reproduktory-cierna-suprava-2-kusov-gen-2__1168829_pe892257_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/symfonisk-regalove-wifi-reproduktory-cierna-suprava-2-kusov-gen-2__1168829_pe892257_s5.jpg?f=xxs',
     name: 'SYMFONISK',
     description: 'Regálové WiFi reproduktory',
     price: '258',
@@ -1483,8 +1377,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/hasvik-par-posuvnych-dveri-biela-90521538/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/justina-podlozka-na-stolicku-siva__1163422_pe890173_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/justina-podlozka-na-stolicku-siva__1163422_pe890173_s5.jpg?f=xxs',
     name: 'JUSTINA',
     description: 'Podložka na stoličku, 42/35x40x4 cm',
     price: '9.98',
@@ -1492,24 +1385,21 @@ const data = [
     subscript: '/2 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/fyrtur-zatemnovacia-roleta-inteligentne-bezdrotova-na-baterie-siva__0595179_pe675959_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/fyrtur-zatemnovacia-roleta-inteligentne-bezdrotova-na-baterie-siva__0595179_pe675959_s5.jpg?f=xxs',
     name: 'FYRTUR',
     description: 'Zatemňovacia roleta, 140x195 cm',
     price: '199',
     link: 'https://www.ikea.com/sk/sk/p/fyrtur-zatemnovacia-roleta-inteligentne-bezdrotova-na-baterie-siva-30408187/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/trotten-ram-stola-s-nastavitelnou-vyskou-biela__0771299_pe756657_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/trotten-ram-stola-s-nastavitelnou-vyskou-biela__0771299_pe756657_s5.jpg?f=xxs',
     name: 'TROTTEN',
     description: 'Ram stola s nastavitelnou vyskou, 120/160 cm',
     price: '150',
     link: 'https://www.ikea.com/sk/sk/p/trotten-ram-stola-s-nastavitelnou-vyskou-biela-40507342/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/taernoe-stolicka-vonkaj-skladaci-cierna-morena-svetlohneda__0728354_pe736202_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/taernoe-stolicka-vonkaj-skladaci-cierna-morena-svetlohneda__0728354_pe736202_s5.jpg?f=xxs',
     name: 'TÄRNÖ',
     description: 'Stolička vonkaj',
     price: '17.99',
@@ -1530,8 +1420,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/hjaelpa-polica-biela-40331164/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/medelstor-zabudovatelna-umyvacka-ikea-500__0846387_pe779051_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/medelstor-zabudovatelna-umyvacka-ikea-500__0846387_pe779051_s5.jpg?f=xxs',
     name: 'MEDELSTOR',
     description: 'Zabudovateľná umývačka, 45 cm',
     price: '399',
@@ -1554,8 +1443,7 @@ const data = [
     subscript: '/3 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/skynke-nakupna-taska-pruzkovany-cierna-biela__1045804_pe842720_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/skynke-nakupna-taska-pruzkovany-cierna-biela__1045804_pe842720_s5.jpg?f=xxs',
     name: 'SKYNKE',
     description: 'Nákupná taška, 45x36 cm',
     price: '0.99',
@@ -1569,32 +1457,28 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/bodbyn-dvere-kremova-50205481/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/aelmaren-kuchynska-bateria-s-vysuv-sprchou-farba-nehrdzavejucej-ocele__0756724_pe749057_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/aelmaren-kuchynska-bateria-s-vysuv-sprchou-farba-nehrdzavejucej-ocele__0756724_pe749057_s5.jpg?f=xxs',
     name: 'ÄLMAREN',
     description: 'Kuchynská batéria s výsuv sprchou',
     price: '99',
     link: 'https://www.ikea.com/sk/sk/p/aelmaren-kuchynska-bateria-s-vysuv-sprchou-farba-nehrdzavejucej-ocele-80341646/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/haverud-stol-s-uloznym-rebrikom-cierna__1016082_pe830209_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/haverud-stol-s-uloznym-rebrikom-cierna__1016082_pe830209_s5.jpg?f=xxs',
     name: 'HÅVERUD',
     description: 'Stôl s úložným rebríkom',
     price: '149',
     link: 'https://www.ikea.com/sk/sk/p/haverud-stol-s-uloznym-rebrikom-cierna-40504254/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/smastad-vysoka-postel-stol-uloz-biela__1168283_pe891862_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/smastad-vysoka-postel-stol-uloz-biela__1168283_pe891862_s5.jpg?f=xxs',
     name: 'SMÅSTAD',
     description: 'Vysoká posteľ/stôl/úlož, 90x200 cm',
     price: '449',
     link: 'https://www.ikea.com/sk/sk/p/smastad-vysoka-postel-stol-uloz-biela-50454036/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/soederhamn-3-miestny-sedaci-diel-viarp-bezova-hneda__0802813_pe768605_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/soederhamn-3-miestny-sedaci-diel-viarp-bezova-hneda__0802813_pe768605_s5.jpg?f=xxs',
     name: 'SÖDERHAMN',
     description: '3-miestny sedací diel',
     price: '559',
@@ -1623,8 +1507,7 @@ const data = [
     subscript: '/2 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/uppspel-podnozie-na-stolovu-dosku-cierna__1040065_pe840574_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/uppspel-podnozie-na-stolovu-dosku-cierna__1040065_pe840574_s5.jpg?f=xxs',
     name: 'UPPSPEL',
     description: 'Podnožie na stolovú dosku, 180/140x80 cm',
     price: '430',
@@ -1645,32 +1528,28 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/pax-4-ramy-skrine-biela-s39895418/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/brogrund-sprchova-suprava-s-termost-bateriou-pochromovane__0755271_pe748315_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/brogrund-sprchova-suprava-s-termost-bateriou-pochromovane__0755271_pe748315_s5.jpg?f=xxs',
     name: 'BROGRUND',
     description: 'Sprchová súprava s termost batériou',
     price: '219',
     link: 'https://www.ikea.com/sk/sk/p/brogrund-sprchova-suprava-s-termost-bateriou-pochromovane-20342535/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/nuffra-nastenne-hodiny-nizke-napaetie-cierna__0638620_pe699039_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/nuffra-nastenne-hodiny-nizke-napaetie-cierna__0638620_pe699039_s5.jpg?f=xxs',
     name: 'NUFFRA',
     description: 'Nástenné hodiny, 25 cm',
     price: '11.99',
     link: 'https://www.ikea.com/sk/sk/p/nuffra-nastenne-hodiny-nizke-napaetie-cierna-40540836/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/symfonisk-regalovy-reproduktor-wifi-cierna-inteligentne-gen-2__1025506_pe834047_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/symfonisk-regalovy-reproduktor-wifi-cierna-inteligentne-gen-2__1025506_pe834047_s5.jpg?f=xxs',
     name: 'SYMFONISK',
     description: 'Regálový reproduktor WiFi',
     price: '129',
     link: 'https://www.ikea.com/sk/sk/p/symfonisk-regalovy-reproduktor-wifi-cierna-inteligentne-gen-2-50506573/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/forneby-mikrovl-rura-komb-s-teplovzdusnou-ikea-500-cierna__1247884_pe922853_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/forneby-mikrovl-rura-komb-s-teplovzdusnou-ikea-500-cierna__1247884_pe922853_s5.jpg?f=xxs',
     name: 'FORNEBY',
     description: 'Mikrovl. rúra komb. s teplovzdušnou',
     price: '549',
@@ -1684,8 +1563,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/branaes-kosik-ratan-00138432/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/guldfisk-korenicka-cire-sklo-nehrdzavejuca-ocel__1196299_pe902878_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/guldfisk-korenicka-cire-sklo-nehrdzavejuca-ocel__1196299_pe902878_s5.jpg?f=xxs',
     name: 'GULDFISK',
     description: 'Korenička, 6 cl',
     price: '0.79',
@@ -1706,8 +1584,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/trofast-ram-biela-80153800/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/korken-doza-s-vrchnakom-cire-sklo__0713739_pe729738_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/korken-doza-s-vrchnakom-cire-sklo__0713739_pe729738_s5.jpg?f=xxs',
     name: 'KORKEN',
     description: 'Dóza s vrchnákom, 1 l',
     price: '2.99',
@@ -1743,16 +1620,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/faergrik-hrncek-kamenina-biela-60143992/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/timjansmott-postelna-bielizen-biela-kvetinove-vzory__1058329_pe849295_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/timjansmott-postelna-bielizen-biela-kvetinove-vzory__1058329_pe849295_s5.jpg?f=xxs',
     name: 'TIMJANSMOTT',
     description: 'Posteľná bielizeň, 140x200/70x90 cm',
     price: '17.99',
     link: 'https://www.ikea.com/sk/sk/p/timjansmott-postelna-bielizen-biela-kvetinove-vzory-50543636/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/laett-detsky-stol-2-stolicky-biela-borovica__0735856_pe740220_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/laett-detsky-stol-2-stolicky-biela-borovica__0735856_pe740220_s5.jpg?f=xxs',
     name: 'LÄTT',
     description: 'Detský stôl, 2 stoličky',
     price: '29.99',
@@ -1794,8 +1669,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/malm-toaletny-stolik-biela-10203610/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/vimle-2-pohovka-rozkladacia-gunnared-bezova__0686037_pe721537_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/vimle-2-pohovka-rozkladacia-gunnared-bezova__0686037_pe721537_s5.jpg?f=xxs',
     name: 'VIMLE',
     description: '2-pohovka rozkladacia',
     price: '919',
@@ -1810,8 +1684,7 @@ const data = [
     subscript: '/6 ks',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/mataelskare-teplovzdusna-rura-ikea-300-nehrdzavejuca-ocel__0754910_pe748167_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/mataelskare-teplovzdusna-rura-ikea-300-nehrdzavejuca-ocel__0754910_pe748167_s5.jpg?f=xxs',
     name: 'MATÄLSKARE',
     description: 'Teplovzdušná rúra',
     price: '229',
@@ -1839,8 +1712,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/platsa-ram-biela-50330951/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/sibbarp-nastenny-panel-na-mieru-dubovy-efekt-laminat__0808038_pe770663_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/sibbarp-nastenny-panel-na-mieru-dubovy-efekt-laminat__0808038_pe770663_s5.jpg?f=xxs',
     name: 'SIBBARP',
     description: 'Nástenný panel na mieru, 1 m²x1.3 cm',
     price: '95',
@@ -1862,16 +1734,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/oppejen-sprchova-zastena-sklo-50410165/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/skadis-kombinacia-s-perforovanym-panelom-biela__1205035_pe906917_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/skadis-kombinacia-s-perforovanym-panelom-biela__1205035_pe906917_s5.jpg?f=xxs',
     name: 'SKÅDIS',
     description: 'Kombinácia s perforovaným panelom, 76x56 cm',
     price: '35.99',
     link: 'https://www.ikea.com/sk/sk/p/skadis-kombinacia-s-perforovanym-panelom-biela-s89515977/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/botaren-tyc-na-zaves-do-kupelne-biela__0601992_pe680081_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/botaren-tyc-na-zaves-do-kupelne-biela__0601992_pe680081_s5.jpg?f=xxs',
     name: 'BOTAREN',
     description: 'Tyč na záves do kúpeľne, 120-200 cm',
     price: '5.99',
@@ -1885,8 +1755,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/hjaelpa-ram-zasuvky-biela-00330982/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/brogrund-zmiesavacia-bateria-na-umyvadlo-pochromovane__0755159_pe748303_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/brogrund-zmiesavacia-bateria-na-umyvadlo-pochromovane__0755159_pe748303_s5.jpg?f=xxs',
     name: 'BROGRUND',
     description: 'Zmiešavacia batéria na umývadlo',
     price: '64.9',
@@ -1928,8 +1797,7 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/nissafors-vozik-svetlozelena-90531957/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-hrniec-s-pokrievkou-nehrdzavejuca-ocel__1006173_pe825758_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-hrniec-s-pokrievkou-nehrdzavejuca-ocel__1006173_pe825758_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Hrniec s pokrievkou, 5.0 l',
     price: '16.99',
@@ -1964,16 +1832,14 @@ const data = [
     link: 'https://www.ikea.com/sk/sk/p/pokal-pohar-cire-sklo-10270478/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/korken-doza-s-vrchnakom-cire-sklo__0713741_pe729737_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/korken-doza-s-vrchnakom-cire-sklo__0713741_pe729737_s5.jpg?f=xxs',
     name: 'KORKEN',
     description: 'Dóza s vrchnákom, 1.8 l',
     price: '4.49',
     link: 'https://www.ikea.com/sk/sk/p/korken-doza-s-vrchnakom-cire-sklo-70213550/',
   },
   {
-    image:
-      'https://www.ikea.com/sk/sk/images/products/ikea-365-doza-na-potraviny-s-vrchnakom-obdlznik-plast__1081948_pe858459_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/sk/sk/images/products/ikea-365-doza-na-potraviny-s-vrchnakom-obdlznik-plast__1081948_pe858459_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Dóza na potraviny s vrchnákom, 1.0 l',
     price: '8.99',

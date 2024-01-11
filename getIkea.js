@@ -1,4 +1,4 @@
-Array.from(document.querySelectorAll('.plp-fragment-wrapper')).map((productCard) => {
+Array.from(document.querySelectorAll('.plp-fragment-wrapper')).map(productCard => {
   const product = productCard.childNodes[0]
   const name = product.getAttribute('data-product-name')
   const price = product.getAttribute('data-price')

@@ -44,16 +44,14 @@ const data = [
     subscript: '/50 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/fladdrig-lunch-bag-patterned-grey__0985581_pe816684_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/fladdrig-lunch-bag-patterned-grey__0985581_pe816684_s5.jpg?f=xxs',
     name: 'FLADDRIG',
     description: 'Lunch bag, 25x16x27 cm',
     price: '1',
     link: 'https://www.ikea.com/gb/en/p/fladdrig-lunch-bag-patterned-grey-10497212/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/bakglad-rubber-spatula-beige-blue__0957939_pe805170_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/bakglad-rubber-spatula-beige-blue__0957939_pe805170_s5.jpg?f=xxs',
     name: 'BAKGLAD',
     description: 'Rubber spatula, 26 cm',
     price: '1',
@@ -88,8 +86,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/prickig-microwave-lid-grey-70186090/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/behoeva-measuring-jug-transparent-grey__0571656_pe667004_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/behoeva-measuring-jug-transparent-grey__0571656_pe667004_s5.jpg?f=xxs',
     name: 'BEHÖVA',
     description: 'Measuring jug, 1 l',
     price: '1',
@@ -141,8 +138,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/produkt-milk-frother-black-50301166/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/kalas-18-piece-cutlery-set-mixed-colours__0998014_pe822915_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/kalas-18-piece-cutlery-set-mixed-colours__0998014_pe822915_s5.jpg?f=xxs',
     name: 'KALAS',
     description: '18-piece cutlery set',
     price: '1.5',
@@ -192,8 +188,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/blomning-coffee-tea-tin-20373206/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-bowl-rounded-sides-white__0712934_pe729146_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-bowl-rounded-sides-white__0712934_pe729146_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Bowl, 13 cm',
     price: '2',
@@ -228,16 +223,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/naersen-bath-towel-white-90447355/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/jaemlik-scented-candle-in-glass-vanilla-light-beige__1060475_pe850035_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/jaemlik-scented-candle-in-glass-vanilla-light-beige__1060475_pe850035_s5.jpg?f=xxs',
     name: 'JÄMLIK',
     description: 'Scented candle in glass, 40 hr',
     price: '2.25',
     link: 'https://www.ikea.com/gb/en/p/jaemlik-scented-candle-in-glass-vanilla-light-beige-70502178/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/bagis-childrens-coat-hanger-mixed-colours__0878856_pe781732_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/bagis-childrens-coat-hanger-mixed-colours__0878856_pe781732_s5.jpg?f=xxs',
     name: 'BAGIS',
     description: "Children's coat-hanger",
     price: '2.5',
@@ -260,8 +253,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/boensyrsa-organiser-multicolour-10562071/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/dyrgrip-red-wine-glass-clear-glass__0713234_pe729344_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/dyrgrip-red-wine-glass-clear-glass__0713234_pe729344_s5.jpg?f=xxs',
     name: 'DYRGRIP',
     description: 'Red wine glass, 58 cl',
     price: '2.5',
@@ -275,8 +267,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/ikea-365-water-bottle-dark-grey-20480013/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/korken-bottle-with-stopper-clear-glass__0711275_pe728113_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/korken-bottle-with-stopper-clear-glass__0711275_pe728113_s5.jpg?f=xxs',
     name: 'KORKEN',
     description: 'Bottle with stopper, 1 l',
     price: '2.5',
@@ -298,8 +289,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/boensyrsa-cleaning-set-turquoise-30562070/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/solhetta-led-bulb-e27-470-lumen-globe-opal-white__0988838_pe818254_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/solhetta-led-bulb-e27-470-lumen-globe-opal-white__0988838_pe818254_s5.jpg?f=xxs',
     name: 'SOLHETTA',
     description: 'LED bulb E27 470 lumen',
     price: '2.5',
@@ -351,16 +341,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/ikea-365-plate-white-80258944/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/dyrgrip-champagne-glass-clear-glass__0712420_pe728839_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/dyrgrip-champagne-glass-clear-glass__0712420_pe728839_s5.jpg?f=xxs',
     name: 'DYRGRIP',
     description: 'Champagne glass, 25 cl',
     price: '2.5',
     link: 'https://www.ikea.com/gb/en/p/dyrgrip-champagne-glass-clear-glass-80309298/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/dyrgrip-white-wine-glass-clear-glass__0712421_pe728840_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/dyrgrip-white-wine-glass-clear-glass__0712421_pe728840_s5.jpg?f=xxs',
     name: 'DYRGRIP',
     description: 'White wine glass, 42 cl',
     price: '2.5',
@@ -397,8 +385,7 @@ const data = [
     subscript: '/package',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tisken-hook-with-suction-cup-white__0749067_pe745422_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tisken-hook-with-suction-cup-white__0749067_pe745422_s5.jpg?f=xxs',
     name: 'TISKEN',
     description: 'Hook with suction cup',
     price: '2.75',
@@ -413,32 +400,28 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/dimpa-storage-bag-transparent-10056770/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/idealisk-corkscrew-silver-colour-matt__0713023_pe729202_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/idealisk-corkscrew-silver-colour-matt__0713023_pe729202_s5.jpg?f=xxs',
     name: 'IDEALISK',
     description: 'Corkscrew',
     price: '3',
     link: 'https://www.ikea.com/gb/en/p/idealisk-corkscrew-silver-colour-matt-10149029/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-bowl-rounded-sides-white__0712930_pe729142_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-bowl-rounded-sides-white__0712930_pe729142_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Bowl, 16 cm',
     price: '3',
     link: 'https://www.ikea.com/gb/en/p/ikea-365-bowl-rounded-sides-white-20278351/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/gurli-cushion-cover-golden-yellow__0544894_pe655202_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/gurli-cushion-cover-golden-yellow__0544894_pe655202_s5.jpg?f=xxs',
     name: 'GURLI',
     description: 'Cushion cover, 50x50 cm',
     price: '3',
     link: 'https://www.ikea.com/gb/en/p/gurli-cushion-cover-golden-yellow-20395821/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/rinnig-tea-towel-white-dark-grey-patterned__0813216_pe772338_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/rinnig-tea-towel-white-dark-grey-patterned__0813216_pe772338_s5.jpg?f=xxs',
     name: 'RINNIG',
     description: 'Tea towel, 45x60 cm',
     price: '3',
@@ -446,8 +429,7 @@ const data = [
     subscript: '/4 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ordning-cutlery-stand-stainless-steel__0815884_pe773081_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ordning-cutlery-stand-stainless-steel__0815884_pe773081_s5.jpg?f=xxs',
     name: 'ORDNING',
     description: 'Cutlery stand, 13.5 cm',
     price: '3',
@@ -461,8 +443,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/smula-tray-transparent-40041131/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/rajtan-spice-jar-glass-aluminium-colour__0712809_pe729072_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/rajtan-spice-jar-glass-aluminium-colour__0712809_pe729072_s5.jpg?f=xxs',
     name: 'RAJTAN',
     description: 'Spice jar, 15 cl',
     price: '3',
@@ -470,8 +451,7 @@ const data = [
     subscript: '/4 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-food-container-rectangular-glass__0711431_pe728247_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-food-container-rectangular-glass__0711431_pe728247_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Food container, 1.0 l',
     price: '3',
@@ -499,8 +479,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/vitmossa-throw-grey-90304889/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ekoln-toothbrush-holder-dark-grey__0749023_pe745401_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ekoln-toothbrush-holder-dark-grey__0749023_pe745401_s5.jpg?f=xxs',
     name: 'EKOLN',
     description: 'Toothbrush holder',
     price: '3.5',
@@ -528,8 +507,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/trofast-storage-box-white-80089239/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/smycka-artificial-leaf-eucalyptus-green__0638910_pe699263_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/smycka-artificial-leaf-eucalyptus-green__0638910_pe699263_s5.jpg?f=xxs',
     name: 'SMYCKA',
     description: 'Artificial leaf, 65 cm',
     price: '3.5',
@@ -578,8 +556,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/ikea-365-bowl-white-00468130/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/pressa-hanging-dryer-16-clothes-pegs-turquoise__0662635_pe712056_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/pressa-hanging-dryer-16-clothes-pegs-turquoise__0662635_pe712056_s5.jpg?f=xxs',
     name: 'PRESSA',
     description: 'Hanging dryer 16 clothes pegs',
     price: '4',
@@ -621,48 +598,42 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/taggvallmo-fitted-sheet-white-70459820/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/fejka-artificial-potted-plant-in-outdoor-hanging-eucalyptus__0817871_pe774216_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/fejka-artificial-potted-plant-in-outdoor-hanging-eucalyptus__0817871_pe774216_s5.jpg?f=xxs',
     name: 'FEJKA',
     description: 'Artificial potted plant, 9 cm',
     price: '4',
     link: 'https://www.ikea.com/gb/en/p/fejka-artificial-potted-plant-in-outdoor-hanging-eucalyptus-70466811/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/uppsta-building-beakers-multicolour__1041615_pe841100_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/uppsta-building-beakers-multicolour__1041615_pe841100_s5.jpg?f=xxs',
     name: 'UPPSTÅ',
     description: 'Building beakers',
     price: '4',
     link: 'https://www.ikea.com/gb/en/p/uppsta-building-beakers-multicolour-70513884/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/fullaendad-5-piece-kitchen-utensil-set-grey__0711751_pe728440_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/fullaendad-5-piece-kitchen-utensil-set-grey__0711751_pe728440_s5.jpg?f=xxs',
     name: 'FULLÄNDAD',
     description: '5-piece kitchen utensil set',
     price: '4',
     link: 'https://www.ikea.com/gb/en/p/fullaendad-5-piece-kitchen-utensil-set-grey-80435942/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-carafe-with-stopper-clear-glass-cork__1283158_pe932404_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-carafe-with-stopper-clear-glass-cork__1283158_pe932404_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Carafe with stopper, 1 l',
     price: '4',
     link: 'https://www.ikea.com/gb/en/p/ikea-365-carafe-with-stopper-clear-glass-cork-90279719/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/sparka-soft-toy-football-black-white__0981434_pe815368_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/sparka-soft-toy-football-black-white__0981434_pe815368_s5.jpg?f=xxs',
     name: 'SPARKA',
     description: 'Soft toy',
     price: '4.5',
     link: 'https://www.ikea.com/gb/en/p/sparka-soft-toy-football-black-white-20506763/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tisken-basket-with-suction-cup-white__0749052_pe745413_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tisken-basket-with-suction-cup-white__0749052_pe745413_s5.jpg?f=xxs',
     name: 'TISKEN',
     description: 'Basket with suction cup',
     price: '4.5',
@@ -683,16 +654,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/trofast-storage-box-white-95685100/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ihallig-place-mat-natural-seagrass__0711863_pe728549_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ihallig-place-mat-natural-seagrass__0711863_pe728549_s5.jpg?f=xxs',
     name: 'IHÅLLIG',
     description: 'Place mat, 37 cm',
     price: '5',
     link: 'https://www.ikea.com/gb/en/p/ihallig-place-mat-natural-seagrass-00342876/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/pluttis-wall-clock-low-voltage-black__1013114_pe829054_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/pluttis-wall-clock-low-voltage-black__1013114_pe829054_s5.jpg?f=xxs',
     name: 'PLUTTIS',
     description: 'Wall clock, 28 cm',
     price: '5',
@@ -736,8 +705,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/mosslanda-picture-ledge-white-40291766/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/blanda-blank-serving-bowl-stainless-steel__1245291_pe921567_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/blanda-blank-serving-bowl-stainless-steel__1245291_pe921567_s5.jpg?f=xxs',
     name: 'BLANDA BLANK',
     description: 'Serving bowl, 28 cm',
     price: '5',
@@ -752,16 +720,14 @@ const data = [
     subscript: '/100 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/mixtur-oven-serving-dish-clear-glass__0710707_pe727721_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/mixtur-oven-serving-dish-clear-glass__0710707_pe727721_s5.jpg?f=xxs',
     name: 'MIXTUR',
     description: 'Oven/serving dish, 27x18 cm',
     price: '5',
     link: 'https://www.ikea.com/gb/en/p/mixtur-oven-serving-dish-clear-glass-60058762/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/foersiktig-childrens-stool-white-green__0712332_pe728740_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/foersiktig-childrens-stool-white-green__0712332_pe728740_s5.jpg?f=xxs',
     name: 'FÖRSIKTIG',
     description: "Children's stool",
     price: '5',
@@ -782,8 +748,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/sindal-door-mat-natural-80047635/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/duktig-5-piece-toy-kitchen-utensil-set-multicolour__0711777_pe728426_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/duktig-5-piece-toy-kitchen-utensil-set-multicolour__0711777_pe728426_s5.jpg?f=xxs',
     name: 'DUKTIG',
     description: '5-piece toy kitchen utensil set',
     price: '5',
@@ -797,24 +762,21 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/silvertopp-duvet-4-tog-80424222/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-food-container-with-lid-rectangular-glass-plastic__0594322_pe675641_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-food-container-with-lid-rectangular-glass-plastic__0594322_pe675641_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Food container with lid, 1.0 l',
     price: '5',
     link: 'https://www.ikea.com/gb/en/p/ikea-365-food-container-with-lid-rectangular-glass-plastic-s89269071/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/schottis-block-out-pleated-blind-dark-grey__0602864_pe680566_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/schottis-block-out-pleated-blind-dark-grey__0602864_pe680566_s5.jpg?f=xxs',
     name: 'SCHOTTIS',
     description: 'Block-out pleated blind, 100x190 cm',
     price: '5',
     link: 'https://www.ikea.com/gb/en/p/schottis-block-out-pleated-blind-dark-grey-90369507/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/abaecken-mist-nozzle-for-mixer-tap__1083307_pe859003_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/abaecken-mist-nozzle-for-mixer-tap__1083307_pe859003_s5.jpg?f=xxs',
     name: 'ÅBÄCKEN',
     description: 'Mist nozzle for mixer tap',
     price: '5',
@@ -828,8 +790,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/trampa-door-mat-natural-40399045/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/brogrund-toilet-roll-holder-stainless-steel__0711711_pe728402_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/brogrund-toilet-roll-holder-stainless-steel__0711711_pe728402_s5.jpg?f=xxs',
     name: 'BROGRUND',
     description: 'Toilet roll holder',
     price: '6',
@@ -865,16 +826,14 @@ const data = [
     subscript: '/30 m',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/fridfull-plant-pot-water-hyacinth__0635630_pe697292_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/fridfull-plant-pot-water-hyacinth__0635630_pe697292_s5.jpg?f=xxs',
     name: 'FRIDFULL',
     description: 'Plant pot, 12 cm',
     price: '6',
     link: 'https://www.ikea.com/gb/en/p/fridfull-plant-pot-water-hyacinth-90155870/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/vallamosse-single-spray-handshower-chrome-plated__0755001_pe748207_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/vallamosse-single-spray-handshower-chrome-plated__0755001_pe748207_s5.jpg?f=xxs',
     name: 'VALLAMOSSE',
     description: 'Single-spray handshower',
     price: '6.5',
@@ -888,8 +847,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/bolmen-step-stool-white-60265163/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/traedkrassula-duvet-cover-and-pillowcase-white-blue__0737320_pe740992_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/traedkrassula-duvet-cover-and-pillowcase-white-blue__0737320_pe740992_s5.jpg?f=xxs',
     name: 'TRÄDKRASSULA',
     description: 'Duvet cover and pillowcase, 150x200/50x80 cm',
     price: '6.5',
@@ -903,8 +861,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/skubb-box-set-of-6-white-00428549/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/borrby-lantern-for-block-candle-in-outdoor-black__0678346_pe719246_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/borrby-lantern-for-block-candle-in-outdoor-black__0678346_pe719246_s5.jpg?f=xxs',
     name: 'BORRBY',
     description: 'Lantern for block candle, 28 cm',
     price: '7',
@@ -918,8 +875,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/hemmabak-roasting-tin-grey-10456693/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/grunka-4-piece-kitchen-utensil-set-stainless-steel__0711741_pe728430_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/grunka-4-piece-kitchen-utensil-set-stainless-steel__0711741_pe728430_s5.jpg?f=xxs',
     name: 'GRUNKA',
     description: '4-piece kitchen utensil set',
     price: '7',
@@ -940,8 +896,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/vagsjoen-bath-towel-dark-grey-30353608/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/koppla-4-way-socket-earthed-white__0605969_pe681938_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/koppla-4-way-socket-earthed-white__0605969_pe681938_s5.jpg?f=xxs',
     name: 'KOPPLA',
     description: '4-way socket',
     price: '7',
@@ -963,8 +918,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/droemmare-mirror-50252397/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/aendlig-3-piece-knife-set-light-grey-white__0210168_pe363627_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/aendlig-3-piece-knife-set-light-grey-white__0210168_pe363627_s5.jpg?f=xxs',
     name: 'ÄNDLIG',
     description: '3-piece knife set',
     price: '7',
@@ -979,8 +933,7 @@ const data = [
     subscript: '/2 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/solfagel-coloured-pencil-mixed-colours__1163412_pe890172_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/solfagel-coloured-pencil-mixed-colours__1163412_pe890172_s5.jpg?f=xxs',
     name: 'SOLFÅGEL',
     description: 'Coloured pencil',
     price: '7.5',
@@ -995,8 +948,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/markkrypare-rug-dark-grey-20558573/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trofast-mesh-storage-box-dark-grey__1042373_pe841354_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trofast-mesh-storage-box-dark-grey__1042373_pe841354_s5.jpg?f=xxs',
     name: 'TROFAST',
     description: 'Mesh storage box, 42x30x10 cm',
     price: '7.5',
@@ -1017,8 +969,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/len-fitted-sheet-white-70128613/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tjusig-hanger-for-door-wall-white__0710542_pe727622_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tjusig-hanger-for-door-wall-white__0710542_pe727622_s5.jpg?f=xxs',
     name: 'TJUSIG',
     description: 'Hanger for door/wall, 60 cm',
     price: '8',
@@ -1033,8 +984,7 @@ const data = [
     subscript: '/2 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/koncis-roasting-tin-stainless-steel__0710709_pe727723_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/koncis-roasting-tin-stainless-steel__0710709_pe727723_s5.jpg?f=xxs',
     name: 'KONCIS',
     description: 'Roasting tin, 34x24 cm',
     price: '8',
@@ -1048,8 +998,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/klack-tray-rubberwood-06410406/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tiphede-rug-flatwoven-black-natural__1074517_pe856220_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tiphede-rug-flatwoven-black-natural__1074517_pe856220_s5.jpg?f=xxs',
     name: 'TIPHEDE',
     description: 'Rug, flatwoven, 80x150 cm',
     price: '9',
@@ -1077,16 +1026,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/aptitlig-chopping-board-bamboo-80233430/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/teresia-sheer-curtains-1-pair-white__0598868_pe677881_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/teresia-sheer-curtains-1-pair-white__0598868_pe677881_s5.jpg?f=xxs',
     name: 'TERESIA',
     description: 'Sheer curtains, 1 pair, 145x250 cm',
     price: '9',
     link: 'https://www.ikea.com/gb/en/p/teresia-sheer-curtains-1-pair-white-90232331/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trofast-mesh-storage-box-light-green-grey__1042379_pe841361_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trofast-mesh-storage-box-light-green-grey__1042379_pe841361_s5.jpg?f=xxs',
     name: 'TROFAST',
     description: 'Mesh storage box, 42x30x23 cm',
     price: '9.5',
@@ -1100,8 +1047,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/klipsk-bed-tray-white-00258882/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/identitet-16-piece-cutlery-set-stainless-steel__0800218_pe767805_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/identitet-16-piece-cutlery-set-stainless-steel__0800218_pe767805_s5.jpg?f=xxs',
     name: 'IDENTITET',
     description: '16-piece cutlery set',
     price: '10',
@@ -1115,16 +1061,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/vesken-trolley-white-00471222/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/barndroem-box-set-of-3-green-blue-beige__1177114_pe895243_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/barndroem-box-set-of-3-green-blue-beige__1177114_pe895243_s5.jpg?f=xxs',
     name: 'BARNDRÖM',
     description: 'Box, set of 3, 17x27x17 cm',
     price: '10',
     link: 'https://www.ikea.com/gb/en/p/barndroem-box-set-of-3-green-blue-beige-10560623/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tiphede-rug-flatwoven-natural-black__0772066_pe755879_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tiphede-rug-flatwoven-natural-black__0772066_pe755879_s5.jpg?f=xxs',
     name: 'TIPHEDE',
     description: 'Rug, flatwoven, 120x180 cm',
     price: '10',
@@ -1139,8 +1083,7 @@ const data = [
     subscript: '/2 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-jug-with-lid-clear-glass-cork__0711276_pe728114_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-jug-with-lid-clear-glass-cork__0711276_pe728114_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Jug with lid, 1.5 l',
     price: '10',
@@ -1161,8 +1104,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/vagsjoen-bath-sheet-dark-grey-50353612/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/godmorgon-box-with-lid-set-of-5-smoked__0802868_pe768615_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/godmorgon-box-with-lid-set-of-5-smoked__0802868_pe768615_s5.jpg?f=xxs',
     name: 'GODMORGON',
     description: 'Box with lid, set of 5, 24x20x10 cm',
     price: '10',
@@ -1176,8 +1118,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/lenast-mattress-protector-white-70373100/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/besta-soft-closing-push-open-hinge__0626848_pe693026_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/besta-soft-closing-push-open-hinge__0626848_pe693026_s5.jpg?f=xxs',
     name: 'BESTÅ',
     description: 'Soft closing/push-open hinge',
     price: '10',
@@ -1206,16 +1147,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/toftlund-rug-white-20420241/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/lillabo-20-piece-basic-train-set-multicolour__0712392_pe728826_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/lillabo-20-piece-basic-train-set-multicolour__0712392_pe728826_s5.jpg?f=xxs',
     name: 'LILLABO',
     description: '20-piece basic train set',
     price: '12',
     link: 'https://www.ikea.com/gb/en/p/lillabo-20-piece-basic-train-set-multicolour-00320054/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/koncis-roasting-tin-with-grill-rack-stainless-steel__0710557_pe727643_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/koncis-roasting-tin-with-grill-rack-stainless-steel__0710557_pe727643_s5.jpg?f=xxs',
     name: 'KONCIS',
     description: 'Roasting tin with grill rack, 40x32 cm',
     price: '12',
@@ -1236,8 +1175,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/vesken-shelf-unit-white-40307866/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-saucepan-with-lid-stainless-steel__1006179_pe825764_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-saucepan-with-lid-stainless-steel__1006179_pe825764_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Saucepan with lid, 2.0 l',
     price: '12',
@@ -1251,8 +1189,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/ekoln-waste-bin-dark-grey-40493910/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/molnart-led-bulb-e27-140-lumen-globe-grey-clear-glass__0989760_pe818597_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/molnart-led-bulb-e27-140-lumen-globe-grey-clear-glass__0989760_pe818597_s5.jpg?f=xxs',
     name: 'MOLNART',
     description: 'LED bulb E27 140 lumen, 125 mm',
     price: '12',
@@ -1260,32 +1197,28 @@ const data = [
     subscript: '/pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/cylinder-vase-set-of-3-clear-glass__0638963_pe699297_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/cylinder-vase-set-of-3-clear-glass__0638963_pe699297_s5.jpg?f=xxs',
     name: 'CYLINDER',
     description: 'Vase, set of 3',
     price: '12',
     link: 'https://www.ikea.com/gb/en/p/cylinder-vase-set-of-3-clear-glass-60175092/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/upphetta-coffee-tea-maker-glass-stainless-steel__0713350_pe729456_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/upphetta-coffee-tea-maker-glass-stainless-steel__0713350_pe729456_s5.jpg?f=xxs',
     name: 'UPPHETTA',
     description: 'Coffee/tea maker, 1 l',
     price: '12',
     link: 'https://www.ikea.com/gb/en/p/upphetta-coffee-tea-maker-glass-stainless-steel-60241389/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/styrbar-remote-control-smart-white__0956695_pe804773_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/styrbar-remote-control-smart-white__0956695_pe804773_s5.jpg?f=xxs',
     name: 'STYRBAR',
     description: 'Remote control',
     price: '12',
     link: 'https://www.ikea.com/gb/en/p/styrbar-remote-control-smart-white-60488366/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/bengta-block-out-curtain-1-length-light-grey__0977116_pe813404_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/bengta-block-out-curtain-1-length-light-grey__0977116_pe813404_s5.jpg?f=xxs',
     name: 'BENGTA',
     description: 'Block-out curtain, 1 length, 210x250 cm',
     price: '12',
@@ -1307,16 +1240,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/lanespelare-mug-holder-black-90507844/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/barndroem-duvet-cover-and-pillowcase-heart-pattern-white-pink__0963404_pe808495_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/barndroem-duvet-cover-and-pillowcase-heart-pattern-white-pink__0963404_pe808495_s5.jpg?f=xxs',
     name: 'BARNDRÖM',
     description: 'Duvet cover and pillowcase, 150x200/50x80 cm',
     price: '13',
     link: 'https://www.ikea.com/gb/en/p/barndroem-duvet-cover-and-pillowcase-heart-pattern-white-pink-00504369/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/grusnarv-waterproof-mattress-protector__0790191_pe764297_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/grusnarv-waterproof-mattress-protector__0790191_pe764297_s5.jpg?f=xxs',
     name: 'GRUSNARV',
     description: 'Waterproof mattress protector, Single',
     price: '13',
@@ -1386,8 +1317,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/dvala-sheet-white-10357259/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/naevlinge-led-clamp-spotlight-white__0710474_pe727575_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/naevlinge-led-clamp-spotlight-white__0710474_pe727575_s5.jpg?f=xxs',
     name: 'NÄVLINGE',
     description: 'LED clamp spotlight',
     price: '15',
@@ -1422,24 +1352,21 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/dvala-fitted-sheet-white-30347797/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/arv-broellop-serving-stand-with-lid-clear-glass__0713433_pe729526_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/arv-broellop-serving-stand-with-lid-clear-glass__0713433_pe729526_s5.jpg?f=xxs',
     name: 'ARV BRÖLLOP',
     description: 'Serving stand with lid, 29 cm',
     price: '15',
     link: 'https://www.ikea.com/gb/en/p/arv-broellop-serving-stand-with-lid-clear-glass-40125550/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/mammut-childrens-chair-in-outdoor-white__0727925_pe735934_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/mammut-childrens-chair-in-outdoor-white__0727925_pe735934_s5.jpg?f=xxs',
     name: 'MAMMUT',
     description: "Children's chair",
     price: '15',
     link: 'https://www.ikea.com/gb/en/p/mammut-childrens-chair-in-outdoor-white-40365371/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/lenast-waterproof-mattress-protector__0716562_pe730923_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/lenast-waterproof-mattress-protector__0716562_pe730923_s5.jpg?f=xxs',
     name: 'LENAST',
     description: 'Waterproof mattress protector, 80x200 cm',
     price: '15',
@@ -1460,16 +1387,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/blanda-matt-serving-bowl-bamboo-60214343/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tigerfink-storage-with-compartments-turquoise__1118484_pe873159_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tigerfink-storage-with-compartments-turquoise__1118484_pe873159_s5.jpg?f=xxs',
     name: 'TIGERFINK',
     description: 'Storage with compartments',
     price: '15',
     link: 'https://www.ikea.com/gb/en/p/tigerfink-storage-with-compartments-turquoise-80512469/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/antilop-highchair-with-safety-belt-white-silver-colour__0727491_pe735716_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/antilop-highchair-with-safety-belt-white-silver-colour__0727491_pe735716_s5.jpg?f=xxs',
     name: 'ANTILOP',
     description: 'Highchair with safety belt',
     price: '15',
@@ -1490,16 +1415,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/luddros-mattress-protector-60461654/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/torared-pendant-lamp-shade-sedge-handmade__0764657_pe753261_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/torared-pendant-lamp-shade-sedge-handmade__0764657_pe753261_s5.jpg?f=xxs',
     name: 'TORARED',
     description: 'Pendant lamp shade, 36 cm',
     price: '17',
     link: 'https://www.ikea.com/gb/en/p/torared-pendant-lamp-shade-sedge-handmade-20430382/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-frying-pan-stainless-steel-non-stick-coating__1006161_pe825746_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-frying-pan-stainless-steel-non-stick-coating__1006161_pe825746_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Frying pan, 28 cm',
     price: '17',
@@ -1520,16 +1443,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/nattapa-guard-rail-white-50465761/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/blavingad-duvet-cover-and-pillowcase-whale-pattern-blue-white__1087801_pe860921_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/blavingad-duvet-cover-and-pillowcase-whale-pattern-blue-white__1087801_pe860921_s5.jpg?f=xxs',
     name: 'BLÅVINGAD',
     description: 'Duvet cover and pillowcase, 150x200/50x80 cm',
     price: '17',
     link: 'https://www.ikea.com/gb/en/p/blavingad-duvet-cover-and-pillowcase-whale-pattern-blue-white-50521106/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/blavingad-towel-with-hood-shark-shaped-blue-grey__1088001_pe860992_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/blavingad-towel-with-hood-shark-shaped-blue-grey__1088001_pe860992_s5.jpg?f=xxs',
     name: 'BLÅVINGAD',
     description: 'Towel with hood, 70x140 cm',
     price: '17',
@@ -1550,8 +1471,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/hyllis-shelving-unit-in-outdoor-00278578/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/livsar-led-lighting-chain-with-24-lights-indoor-tulle-white__0661161_pe711353_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/livsar-led-lighting-chain-with-24-lights-indoor-tulle-white__0661161_pe711353_s5.jpg?f=xxs',
     name: 'LIVSÅR',
     description: 'LED lighting chain with 24 lights',
     price: '19',
@@ -1565,16 +1485,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/bygglek-lego-r-box-with-lid-10354208/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/taernaby-table-lamp-dimmable-anthracite__1188962_pe899634_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/taernaby-table-lamp-dimmable-anthracite__1188962_pe899634_s5.jpg?f=xxs',
     name: 'TÄRNABY',
     description: 'Table lamp, 25 cm',
     price: '19',
     link: 'https://www.ikea.com/gb/en/p/taernaby-table-lamp-dimmable-anthracite-20323891/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/antilop-highchair-with-tray-white-silver-colour__0727481_pe735706_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/antilop-highchair-with-tray-white-silver-colour__0727481_pe735706_s5.jpg?f=xxs',
     name: 'ANTILOP',
     description: 'Highchair with tray',
     price: '19',
@@ -1602,32 +1520,28 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/kyrre-stool-birch-60416925/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-pot-with-lid-stainless-steel__1006173_pe825758_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-pot-with-lid-stainless-steel__1006173_pe825758_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Pot with lid, 5.0 l',
     price: '19',
     link: 'https://www.ikea.com/gb/en/p/ikea-365-pot-with-lid-stainless-steel-60484250/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/dragon-24-piece-cutlery-set-stainless-steel__0711372_pe728215_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/dragon-24-piece-cutlery-set-stainless-steel__0711372_pe728215_s5.jpg?f=xxs',
     name: 'DRAGON',
     description: '24-piece cutlery set',
     price: '19',
     link: 'https://www.ikea.com/gb/en/p/dragon-24-piece-cutlery-set-stainless-steel-90091760/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/stig-bar-stool-with-backrest-black-black__0948110_pe798867_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/stig-bar-stool-with-backrest-black-black__0948110_pe798867_s5.jpg?f=xxs',
     name: 'STIG',
     description: 'Bar stool with backrest, 63 cm',
     price: '20',
     link: 'https://www.ikea.com/gb/en/p/stig-bar-stool-with-backrest-black-black-30498418/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/baenkkamrat-bench-pad-dot-pattern__0830876_pe777719_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/baenkkamrat-bench-pad-dot-pattern__0830876_pe777719_s5.jpg?f=xxs',
     name: 'BÄNKKAMRAT',
     description: 'Bench pad, 90x50x3 cm',
     price: '20',
@@ -1641,8 +1555,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/melltorp-table-top-white-90280096/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/rumsmalva-ergonomic-pillow-side-back-sleeper__0792315_pe764703_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/rumsmalva-ergonomic-pillow-side-back-sleeper__0792315_pe764703_s5.jpg?f=xxs',
     name: 'RUMSMALVA',
     description: 'Ergonomic pillow, side/back sleeper, 50x80 cm',
     price: '22',
@@ -1663,8 +1576,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/kolon-floor-protector-44881100/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/runnen-floor-decking-outdoor-dark-grey__0237434_pe376790_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/runnen-floor-decking-outdoor-dark-grey__0237434_pe376790_s5.jpg?f=xxs',
     name: 'RUNNEN',
     description: 'Floor decking, outdoor, 0.81 m²',
     price: '22',
@@ -1680,16 +1592,14 @@ const data = [
     subscript: '/4 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/aftonsparv-childrens-tent-rocket-white-red__1182762_pe897294_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/aftonsparv-childrens-tent-rocket-white-red__1182762_pe897294_s5.jpg?f=xxs',
     name: 'AFTONSPARV',
     description: "Children's tent",
     price: '25',
     link: 'https://www.ikea.com/gb/en/p/aftonsparv-childrens-tent-rocket-white-red-00556462/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-24-piece-cutlery-set-stainless-steel__0713262_pe729372_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-24-piece-cutlery-set-stainless-steel__0713262_pe729372_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: '24-piece cutlery set',
     price: '25',
@@ -1703,16 +1613,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/smasporre-duvet-7-5-tog-30457998/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/elloven-monitor-stand-with-drawer-white__0955984_pe804426_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/elloven-monitor-stand-with-drawer-white__0955984_pe804426_s5.jpg?f=xxs',
     name: 'ELLOVEN',
     description: 'Monitor stand with drawer',
     price: '25',
     link: 'https://www.ikea.com/gb/en/p/elloven-monitor-stand-with-drawer-white-50474770/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/bergpalm-duvet-cover-and-2-pillowcases-green-stripe__0720386_pe732529_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/bergpalm-duvet-cover-and-2-pillowcases-green-stripe__0720386_pe732529_s5.jpg?f=xxs',
     name: 'BERGPALM',
     description: 'Duvet cover and 2 pillowcases, 200x200/50x80 cm',
     price: '25',
@@ -1726,40 +1634,35 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/luroey-slatted-bed-base-70278725/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/fridans-block-out-roller-blind-grey__0588037_pe672901_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/fridans-block-out-roller-blind-grey__0588037_pe672901_s5.jpg?f=xxs',
     name: 'FRIDANS',
     description: 'Block-out roller blind, 120x195 cm',
     price: '25',
     link: 'https://www.ikea.com/gb/en/p/fridans-block-out-roller-blind-grey-70396917/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/vallamosse-riser-rail-with-handshower-kit-chrome-plated__0755273_pe748317_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/vallamosse-riser-rail-with-handshower-kit-chrome-plated__0755273_pe748317_s5.jpg?f=xxs',
     name: 'VALLAMOSSE',
     description: 'Riser rail with handshower kit',
     price: '25',
     link: 'https://www.ikea.com/gb/en/p/vallamosse-riser-rail-with-handshower-kit-chrome-plated-70506831/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/oestanoe-chair-black-remmarn-dark-grey__1119282_pe873451_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/oestanoe-chair-black-remmarn-dark-grey__1119282_pe873451_s5.jpg?f=xxs',
     name: 'ÖSTANÖ',
     description: 'Chair',
     price: '25',
     link: 'https://www.ikea.com/gb/en/p/oestanoe-chair-black-remmarn-dark-grey-80545361/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/duvholmen-inner-cushion-for-seat-cushion-outdoor-off-white__0684490_pe721197_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/duvholmen-inner-cushion-for-seat-cushion-outdoor-off-white__0684490_pe721197_s5.jpg?f=xxs',
     name: 'DUVHOLMEN',
     description: 'Inner cushion for seat cushion, 62x62 cm',
     price: '25',
     link: 'https://www.ikea.com/gb/en/p/duvholmen-inner-cushion-for-seat-cushion-outdoor-off-white-90391853/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/pelarboj-led-table-lamp-multicolour__0689134_pe722837_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/pelarboj-led-table-lamp-multicolour__0689134_pe722837_s5.jpg?f=xxs',
     name: 'PELARBOJ',
     description: 'LED table lamp',
     price: '25',
@@ -1773,24 +1676,21 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/pahl-desk-top-shelf-white-10519501/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/pilkan-wash-basin-mixer-tap-with-strainer-chrome-plated__0644803_pe702977_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/pilkan-wash-basin-mixer-tap-with-strainer-chrome-plated__0644803_pe702977_s5.jpg?f=xxs',
     name: 'PILKÅN',
     description: 'Wash-basin mixer tap with strainer',
     price: '28',
     link: 'https://www.ikea.com/gb/en/p/pilkan-wash-basin-mixer-tap-with-strainer-chrome-plated-20400337/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/vittsjoe-laptop-stand-black-brown-glass__0176250_pe329143_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/vittsjoe-laptop-stand-black-brown-glass__0176250_pe329143_s5.jpg?f=xxs',
     name: 'VITTSJÖ',
     description: 'Laptop stand, 35x65 cm',
     price: '29',
     link: 'https://www.ikea.com/gb/en/p/vittsjoe-laptop-stand-black-brown-glass-00250249/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trones-shoe-cabinet-storage-white__0710711_pe727734_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trones-shoe-cabinet-storage-white__0710711_pe727734_s5.jpg?f=xxs',
     name: 'TRONES',
     description: 'Shoe cabinet/storage, 52x18x39 cm',
     price: '29',
@@ -1798,8 +1698,7 @@ const data = [
     subscript: '/2 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ikea-365-wok-stainless-steel-non-stick-coating__1006185_pe825770_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ikea-365-wok-stainless-steel-non-stick-coating__1006185_pe825770_s5.jpg?f=xxs',
     name: 'IKEA 365+',
     description: 'Wok, 32 cm',
     price: '29',
@@ -1813,8 +1712,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/tjusig-shoe-rack-white-30152638/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/laett-childrens-table-with-2-chairs-white-pine__0735856_pe740220_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/laett-childrens-table-with-2-chairs-white-pine__0735856_pe740220_s5.jpg?f=xxs',
     name: 'LÄTT',
     description: "Children's table with 2 chairs",
     price: '29',
@@ -1828,16 +1726,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/uppatvind-air-purifier-50498224/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/oeversidan-led-wardrobe-lighting-strp-w-sensor-dimmable-white__0967062_pe810027_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/oeversidan-led-wardrobe-lighting-strp-w-sensor-dimmable-white__0967062_pe810027_s5.jpg?f=xxs',
     name: 'ÖVERSIDAN',
     description: 'LED wardrobe lighting strp w sensor, 96 cm',
     price: '29',
     link: 'https://www.ikea.com/gb/en/p/oeversidan-led-wardrobe-lighting-strp-w-sensor-dimmable-white-70529088/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/snurrad-storage-turntable-transparent__1012819_pe829032_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/snurrad-storage-turntable-transparent__1012819_pe829032_s5.jpg?f=xxs',
     name: 'SNURRAD',
     description: 'Storage turntable',
     price: '29',
@@ -1872,8 +1768,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/perjohan-stool-with-storage-pine-80485338/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/dvala-duvet-cover-and-2-pillowcases-white__0638309_pe698825_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/dvala-duvet-cover-and-2-pillowcases-white__0638309_pe698825_s5.jpg?f=xxs',
     name: 'DVALA',
     description: 'Duvet cover and 2 pillowcases, 240x220/50x80 cm',
     price: '30',
@@ -1901,8 +1796,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/flisat-toy-storage-with-wheels-10298420/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/loberget-malskaer-swivel-chair-white__1078458_pe857202_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/loberget-malskaer-swivel-chair-white__1078458_pe857202_s5.jpg?f=xxs',
     name: 'LOBERGET / MALSKÄR',
     description: 'Swivel chair',
     price: '35',
@@ -1916,8 +1810,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/luroey-slatted-bed-base-50278726/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/franklin-bar-stool-with-backrest-foldable-black-black__0727485_pe735710_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/franklin-bar-stool-with-backrest-foldable-black-black__0727485_pe735710_s5.jpg?f=xxs',
     name: 'FRANKLIN',
     description: 'Bar stool with backrest, foldable, 63 cm',
     price: '35',
@@ -1967,8 +1860,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/vardoe-bed-storage-box-white-00222671/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/dypsis-lutescens-potted-plant-areca-palm__0653973_pe708202_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/dypsis-lutescens-potted-plant-areca-palm__0653973_pe708202_s5.jpg?f=xxs',
     name: 'DYPSIS LUTESCENS',
     description: 'Potted plant, 24 cm',
     price: '40',
@@ -2003,8 +1895,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/stefan-chair-white-90339233/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/naemmaroe-seat-sec-for-modular-sofa-outdoor-light-brown-stained__1138748_pe880048_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/naemmaroe-seat-sec-for-modular-sofa-outdoor-light-brown-stained__1138748_pe880048_s5.jpg?f=xxs',
     name: 'NÄMMARÖ',
     description: 'Seat sec for modular sofa, outdoor',
     price: '45',
@@ -2018,16 +1909,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/luroey-slatted-bed-base-30278727/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/nysjoen-wash-basin-base-cabinet-w-2-doors-white__0971610_pe811409_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/nysjoen-wash-basin-base-cabinet-w-2-doors-white__0971610_pe811409_s5.jpg?f=xxs',
     name: 'NYSJÖN',
     description: 'Wash-basin base cabinet w 2 doors, 50x65 cm',
     price: '45',
     link: 'https://www.ikea.com/gb/en/p/nysjoen-wash-basin-base-cabinet-w-2-doors-white-50470814/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/nymane-ceiling-spotlight-with-4-spots-white__0607350_pe682899_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/nymane-ceiling-spotlight-with-4-spots-white__0607350_pe682899_s5.jpg?f=xxs',
     name: 'NYMÅNE',
     description: 'Ceiling spotlight with 4 spots',
     price: '45',
@@ -2041,8 +1930,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/krummelur-foam-mattress-for-cot-20404477/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/norberg-wall-mounted-drop-leaf-table-white__0736622_pe740674_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/norberg-wall-mounted-drop-leaf-table-white__0736622_pe740674_s5.jpg?f=xxs',
     name: 'NORBERG',
     description: 'Wall-mounted drop-leaf table, 74x60 cm',
     price: '49',
@@ -2070,16 +1958,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/skogsta-bench-acacia-30297957/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/fiskbo-frame-with-poster-set-of-9-creme-de-la-creme__1180175_pe896218_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/fiskbo-frame-with-poster-set-of-9-creme-de-la-creme__1180175_pe896218_s5.jpg?f=xxs',
     name: 'FISKBO',
     description: 'Frame with poster, set of 9',
     price: '50',
     link: 'https://www.ikea.com/gb/en/p/fiskbo-frame-with-poster-set-of-9-creme-de-la-creme-30554923/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/lysekil-wall-panel-double-sided-white-marble-effect-black-white-mosaic-patterned__0829954_pe776806_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/lysekil-wall-panel-double-sided-white-marble-effect-black-white-mosaic-patterned__0829954_pe776806_s5.jpg?f=xxs',
     name: 'LYSEKIL',
     description: 'Wall panel, 119.6x55 cm',
     price: '50',
@@ -2087,8 +1973,7 @@ const data = [
     subscript: '/0.65 m²',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/naemmaroe-reclining-chair-outdoor-foldable-light-brown-stained__1138757_pe880057_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/naemmaroe-reclining-chair-outdoor-foldable-light-brown-stained__1138757_pe880057_s5.jpg?f=xxs',
     name: 'NÄMMARÖ',
     description: 'Reclining chair, outdoor',
     price: '50',
@@ -2102,8 +1987,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/perjohan-bench-with-storage-pine-60485339/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tillreda-portable-induction-hob-1-zone-white__0965512_pe809593_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tillreda-portable-induction-hob-1-zone-white__0965512_pe809593_s5.jpg?f=xxs',
     name: 'TILLREDA',
     description: 'Portable induction hob',
     price: '50',
@@ -2117,8 +2001,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/billy-bookcase-white-00263850/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/vilborg-room-darkening-curtains-1-pair-beige__0598849_pe677835_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/vilborg-room-darkening-curtains-1-pair-beige__0598849_pe677835_s5.jpg?f=xxs',
     name: 'VILBORG',
     description: 'Room darkening curtains, 1 pair, 145x250 cm',
     price: '55',
@@ -2132,8 +2015,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/melltorp-table-white-s19011777/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/kaettil-chair-white-knisa-light-grey__1016338_pe830329_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/kaettil-chair-white-knisa-light-grey__1016338_pe830329_s5.jpg?f=xxs',
     name: 'KÄTTIL',
     description: 'Chair',
     price: '55',
@@ -2161,8 +2043,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/malm-chest-of-2-drawers-white-80214549/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ledsjoe-led-wall-lamp-stainless-steel__0582357_pe670678_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ledsjoe-led-wall-lamp-stainless-steel__0582357_pe670678_s5.jpg?f=xxs',
     name: 'LEDSJÖ',
     description: 'LED wall lamp',
     price: '55',
@@ -2176,8 +2057,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/oevning-trolley-white-grey-green-00517003/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ekedalen-chair-white-ramna-light-grey__0728310_pe736178_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ekedalen-chair-white-ramna-light-grey__0728310_pe736178_s5.jpg?f=xxs',
     name: 'EKEDALEN',
     description: 'Chair',
     price: '60',
@@ -2191,8 +2071,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/lauters-floor-lamp-ash-white-40405046/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/dirigera-hub-for-smart-products-white-smart__1032017_pe836737_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/dirigera-hub-for-smart-products-white-smart__1032017_pe836737_s5.jpg?f=xxs',
     name: 'DIRIGERA',
     description: 'Hub for smart products',
     price: '60',
@@ -2206,24 +2085,21 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/fjaellarnika-duvet-7-5-tog-70459066/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/misterhult-pendant-lamp-bamboo-handmade__0794605_pe765667_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/misterhult-pendant-lamp-bamboo-handmade__0794605_pe765667_s5.jpg?f=xxs',
     name: 'MISTERHULT',
     description: 'Pendant lamp, 45 cm',
     price: '60',
     link: 'https://www.ikea.com/gb/en/p/misterhult-pendant-lamp-bamboo-handmade-90441018/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ingolf-bar-stool-with-backrest-white__0728062_pe736035_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ingolf-bar-stool-with-backrest-white__0728062_pe736035_s5.jpg?f=xxs',
     name: 'INGOLF',
     description: 'Bar stool with backrest, 63 cm',
     price: '65',
     link: 'https://www.ikea.com/gb/en/p/ingolf-bar-stool-with-backrest-white-10122647/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/poaeng-childrens-armchair-birch-veneer-medskog-dinosaur-pattern__0971808_pe811452_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/poaeng-childrens-armchair-birch-veneer-medskog-dinosaur-pattern__0971808_pe811452_s5.jpg?f=xxs',
     name: 'POÄNG',
     description: "Children's armchair",
     price: '65',
@@ -2251,16 +2127,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/kallax-shelving-unit-white-80275887/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/godishus-chest-of-3-drawers-white__0721186_pe735626_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/godishus-chest-of-3-drawers-white__0721186_pe735626_s5.jpg?f=xxs',
     name: 'GODISHUS',
     description: 'Chest of 3 drawers, 60x64 cm',
     price: '65',
     link: 'https://www.ikea.com/gb/en/p/godishus-chest-of-3-drawers-white-80433486/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/saeljan-worktop-oak-effect-laminate__0808056_pe770665_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/saeljan-worktop-oak-effect-laminate__0808056_pe770665_s5.jpg?f=xxs',
     name: 'SÄLJAN',
     description: 'Worktop, 246x3.8 cm',
     price: '65',
@@ -2282,8 +2156,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/sniglar-cot-beech-30248537/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/malm-bed-storage-box-for-high-bed-frame-white__0636233_pe697745_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/malm-bed-storage-box-for-high-bed-frame-white__0636233_pe697745_s5.jpg?f=xxs',
     name: 'MALM',
     description: 'Bed storage box for high bed frame, Single/double',
     price: '70',
@@ -2305,8 +2178,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/nysjoen-high-cabinet-white-20470815/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/naemmaroe-privacy-screen-light-brown-stained-indoor-outdoor__1137840_pe879763_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/naemmaroe-privacy-screen-light-brown-stained-indoor-outdoor__1137840_pe879763_s5.jpg?f=xxs',
     name: 'NÄMMARÖ',
     description: 'Privacy screen, 140x80x50 cm',
     price: '70',
@@ -2342,8 +2214,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/tillreda-microwave-oven-white-60493358/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trofast-storage-combination-with-boxes-white-white__0535774_pe649629_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trofast-storage-combination-with-boxes-white-white__0535774_pe649629_s5.jpg?f=xxs',
     name: 'TROFAST',
     description: 'Storage combination with boxes, 99x44x56 cm',
     price: '79',
@@ -2357,32 +2228,28 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/alex-drawer-unit-white-00473546/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/blaliden-glass-door-cabinet-black__1186283_pe898753_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/blaliden-glass-door-cabinet-black__1186283_pe898753_s5.jpg?f=xxs',
     name: 'BLÅLIDEN',
     description: 'Glass-door cabinet, 35x32x151 cm',
     price: '80',
     link: 'https://www.ikea.com/gb/en/p/blaliden-glass-door-cabinet-black-00520519/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/aelmaren-kitchen-mixer-tap-stainless-steel-colour__0804883_pe769403_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/aelmaren-kitchen-mixer-tap-stainless-steel-colour__0804883_pe769403_s5.jpg?f=xxs',
     name: 'ÄLMAREN',
     description: 'Kitchen mixer tap',
     price: '85',
     link: 'https://www.ikea.com/gb/en/p/aelmaren-kitchen-mixer-tap-stainless-steel-colour-60455163/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trotten-drawer-unit-w-3-drawers-on-castors-white__1009427_pe827592_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trotten-drawer-unit-w-3-drawers-on-castors-white__1009427_pe827592_s5.jpg?f=xxs',
     name: 'TROTTEN',
     description: 'Drawer unit w 3 drawers on castors',
     price: '85',
     link: 'https://www.ikea.com/gb/en/p/trotten-drawer-unit-w-3-drawers-on-castors-white-80485098/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trofast-storage-combination-with-boxes-white-white__0535760_pe649618_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trofast-storage-combination-with-boxes-white-white__0535760_pe649618_s5.jpg?f=xxs',
     name: 'TROFAST',
     description: 'Storage combination with boxes, 99x44x56 cm',
     price: '86.5',
@@ -2410,8 +2277,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/duktig-play-kitchen-red-80557740/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tillreda-fridge-freestanding-white__1249070_pe923332_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tillreda-fridge-freestanding-white__1249070_pe923332_s5.jpg?f=xxs',
     name: 'TILLREDA',
     description: 'Fridge, 43 l',
     price: '99',
@@ -2432,16 +2298,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/godishus-wardrobe-white-50422494/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/innerlig-sprung-mattress-for-extendable-bed__0748960_pe745350_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/innerlig-sprung-mattress-for-extendable-bed__0748960_pe745350_s5.jpg?f=xxs',
     name: 'INNERLIG',
     description: 'Sprung mattress for extendable bed, 80x200 cm',
     price: '99',
     link: 'https://www.ikea.com/gb/en/p/innerlig-sprung-mattress-for-extendable-bed-80348596/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/gladstad-upholstered-bed-storage-box-kabusa-light-grey__1012071_pe828755_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/gladstad-upholstered-bed-storage-box-kabusa-light-grey__1012071_pe828755_s5.jpg?f=xxs',
     name: 'GLADSTAD',
     description: 'Upholstered bed storage box, Single/double',
     price: '100',
@@ -2449,16 +2313,14 @@ const data = [
     subscript: '/2 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trofast-storage-combination-with-boxes-white-dark-grey-light-green-grey__1087971_pe860984_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trofast-storage-combination-with-boxes-white-dark-grey-light-green-grey__1087971_pe860984_s5.jpg?f=xxs',
     name: 'TROFAST',
     description: 'Storage combination with boxes, 99x44x56 cm',
     price: '106',
     link: 'https://www.ikea.com/gb/en/p/trofast-storage-combination-with-boxes-white-dark-grey-light-green-grey-s69533265/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trofast-storage-combination-with-boxes-white-dark-grey-light-green-grey__1087971_pe860984_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trofast-storage-combination-with-boxes-white-dark-grey-light-green-grey__1087971_pe860984_s5.jpg?f=xxs',
     name: 'TROFAST',
     description: 'Storage combination with boxes, 99x44x56 cm',
     price: '106',
@@ -2480,24 +2342,21 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/billy-bookcase-white-s79017837/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg?f=xxs',
     name: 'MILLBERGET',
     description: 'Swivel chair',
     price: '115',
     link: 'https://www.ikea.com/gb/en/p/millberget-swivel-chair-murum-black-20489396/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/naemmaroe-table-outdoor-light-brown-stained__1138751_pe880051_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/naemmaroe-table-outdoor-light-brown-stained__1138751_pe880051_s5.jpg?f=xxs',
     name: 'NÄMMARÖ',
     description: 'Table, outdoor, 140x75 cm',
     price: '115',
     link: 'https://www.ikea.com/gb/en/p/naemmaroe-table-outdoor-light-brown-stained-20510307/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/symfonisk-wifi-bookshelf-speaker-black-smart-gen-2__1025506_pe834047_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/symfonisk-wifi-bookshelf-speaker-black-smart-gen-2__1025506_pe834047_s5.jpg?f=xxs',
     name: 'SYMFONISK',
     description: 'WiFi bookshelf speaker',
     price: '115',
@@ -2511,16 +2370,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/malm-chest-of-4-drawers-white-30403571/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ektorp-cover-for-2-seat-sofa-kilanda-light-beige__1194798_pe902057_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ektorp-cover-for-2-seat-sofa-kilanda-light-beige__1194798_pe902057_s5.jpg?f=xxs',
     name: 'EKTORP',
     description: 'Cover for 2-seat sofa',
     price: '120',
     link: 'https://www.ikea.com/gb/en/p/ektorp-cover-for-2-seat-sofa-kilanda-light-beige-30565356/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/haverud-table-with-storage-ladder-black__1016082_pe830209_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/haverud-table-with-storage-ladder-black__1016082_pe830209_s5.jpg?f=xxs',
     name: 'HÅVERUD',
     description: 'Table with storage ladder',
     price: '129',
@@ -2548,8 +2405,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/tussoey-mattress-topper-white-70298177/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/alex-drawer-unit-with-9-drawers-white__0977781_pe813766_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/alex-drawer-unit-with-9-drawers-white__0977781_pe813766_s5.jpg?f=xxs',
     name: 'ALEX',
     description: 'Drawer unit with 9 drawers, 36x116 cm',
     price: '129',
@@ -2563,8 +2419,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/sunnersta-mini-kitchen-90302079/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/kleppstad-bed-frame-white-vissle-beige__1035340_pe840527_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/kleppstad-bed-frame-white-vissle-beige__1035340_pe840527_s5.jpg?f=xxs',
     name: 'KLEPPSTAD',
     description: 'Bed frame, Standard Double',
     price: '139',
@@ -2579,8 +2434,7 @@ const data = [
     subscript: '/4 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/grillskaer-kitchen-island-shelf-unit-black-stainless-steel-outdoor__0820260_pe774984_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/grillskaer-kitchen-island-shelf-unit-black-stainless-steel-outdoor__0820260_pe774984_s5.jpg?f=xxs',
     name: 'GRILLSKÄR',
     description: 'Kitchen island shelf unit, 86x61 cm',
     price: '140',
@@ -2622,8 +2476,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/gunnoen-gazebo-dark-grey-grey-20468855/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/matchspel-gaming-chair-bomstad-black__0985645_pe816716_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/matchspel-gaming-chair-bomstad-black__0985645_pe816716_s5.jpg?f=xxs',
     name: 'MATCHSPEL',
     description: 'Gaming chair',
     price: '150',
@@ -2658,72 +2511,63 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/tussoey-mattress-topper-white-80298153/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/vesteroey-pocket-sprung-mattress-medium-firm-light-blue__1150853_pe884906_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/vesteroey-pocket-sprung-mattress-medium-firm-light-blue__1150853_pe884906_s5.jpg?f=xxs',
     name: 'VESTERÖY',
     description: 'Pocket sprung mattress, Standard Single',
     price: '159',
     link: 'https://www.ikea.com/gb/en/p/vesteroey-pocket-sprung-mattress-medium-firm-light-blue-80450635/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/norberg-kaettil-table-and-2-chairs-white-knisa-light-grey__1016372_pe830350_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/norberg-kaettil-table-and-2-chairs-white-knisa-light-grey__1016372_pe830350_s5.jpg?f=xxs',
     name: 'NORBERG / KÄTTIL',
     description: 'Table and 2 chairs, 74 cm',
     price: '159',
     link: 'https://www.ikea.com/gb/en/p/norberg-kaettil-table-and-2-chairs-white-knisa-light-grey-s99428852/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/trotten-underframe-sit-stand-f-table-top-white__0771299_pe756657_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/trotten-underframe-sit-stand-f-table-top-white__0771299_pe756657_s5.jpg?f=xxs',
     name: 'TROTTEN',
     description: 'Underframe sit/stand f table top, 120/160 cm',
     price: '165',
     link: 'https://www.ikea.com/gb/en/p/trotten-underframe-sit-stand-f-table-top-white-40507342/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/kleppstad-bed-frame-white-vissle-beige__1035340_pe840527_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/kleppstad-bed-frame-white-vissle-beige__1035340_pe840527_s5.jpg?f=xxs',
     name: 'KLEPPSTAD',
     description: 'Bed frame, Standard King',
     price: '169',
     link: 'https://www.ikea.com/gb/en/p/kleppstad-bed-frame-white-vissle-beige-20492681/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/haverud-stig-table-and-2-stools-black-black__1028678_pe835481_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/haverud-stig-table-and-2-stools-black-black__1028678_pe835481_s5.jpg?f=xxs',
     name: 'HÅVERUD / STIG',
     description: 'Table and 2 stools, 105 cm',
     price: '169',
     link: 'https://www.ikea.com/gb/en/p/haverud-stig-table-and-2-stools-black-black-s59428934/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/hauga-high-cabinet-with-2-doors-white__0914112_pe783851_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/hauga-high-cabinet-with-2-doors-white__0914112_pe783851_s5.jpg?f=xxs',
     name: 'HAUGA',
     description: 'High cabinet with 2 doors, 70x199 cm',
     price: '179',
     link: 'https://www.ikea.com/gb/en/p/hauga-high-cabinet-with-2-doors-white-20415046/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg?f=xxs',
     name: 'MARKUS',
     description: 'Office chair',
     price: '179',
     link: 'https://www.ikea.com/gb/en/p/markus-office-chair-vissle-dark-grey-30261152/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/jokkmokk-table-and-4-chairs-antique-stain__0736929_pe740809_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/jokkmokk-table-and-4-chairs-antique-stain__0736929_pe740809_s5.jpg?f=xxs',
     name: 'JOKKMOKK',
     description: 'Table and 4 chairs',
     price: '179',
     link: 'https://www.ikea.com/gb/en/p/jokkmokk-table-and-4-chairs-antique-stain-50211104/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/hauga-high-cabinet-with-2-doors-grey__0914110_pe783850_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/hauga-high-cabinet-with-2-doors-grey__0914110_pe783850_s5.jpg?f=xxs',
     name: 'HAUGA',
     description: 'High cabinet with 2 doors, 70x199 cm',
     price: '179',
@@ -2737,32 +2581,28 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/kura-reversible-bed-white-pine-80253809/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/malm-bed-frame-high-w-2-storage-boxes-white__1154404_pe886051_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/malm-bed-frame-high-w-2-storage-boxes-white__1154404_pe886051_s5.jpg?f=xxs',
     name: 'MALM',
     description: 'Bed frame, high, w 2 storage boxes, Standard Single',
     price: '194',
     link: 'https://www.ikea.com/gb/en/p/malm-bed-frame-high-w-2-storage-boxes-white-s39012988/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/melltorp-teodores-table-and-4-chairs-white__0738057_pe741340_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/melltorp-teodores-table-and-4-chairs-white__0738057_pe741340_s5.jpg?f=xxs',
     name: 'MELLTORP / TEODORES',
     description: 'Table and 4 chairs, 125 cm',
     price: '195',
     link: 'https://www.ikea.com/gb/en/p/melltorp-teodores-table-and-4-chairs-white-s29221256/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/brimnes-wardrobe-with-3-doors-white__0176787_pe329567_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/brimnes-wardrobe-with-3-doors-white__0176787_pe329567_s5.jpg?f=xxs',
     name: 'BRIMNES',
     description: 'Wardrobe with 3 doors, 117x190 cm',
     price: '199',
     link: 'https://www.ikea.com/gb/en/p/brimnes-wardrobe-with-3-doors-white-40407922/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/mataelskare-wall-mounted-extractor-hood-stainless-steel__0755565_pe748464_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/mataelskare-wall-mounted-extractor-hood-stainless-steel__0755565_pe748464_s5.jpg?f=xxs',
     name: 'MATÄLSKARE',
     description: 'Wall mounted extractor hood, 60 cm',
     price: '199',
@@ -2776,16 +2616,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/hauga-sideboard-white-60407266/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/haverud-stig-table-and-4-stools-black-black__1028679_pe835479_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/haverud-stig-table-and-4-stools-black-black__1028679_pe835479_s5.jpg?f=xxs',
     name: 'HÅVERUD / STIG',
     description: 'Table and 4 stools, 105 cm',
     price: '209',
     link: 'https://www.ikea.com/gb/en/p/haverud-stig-table-and-4-stools-black-black-s89428923/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/malm-bed-frame-high-w-2-storage-boxes-white-luroey__1154404_pe886051_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/malm-bed-frame-high-w-2-storage-boxes-white-luroey__1154404_pe886051_s5.jpg?f=xxs',
     name: 'MALM',
     description: 'Bed frame, high, w 2 storage boxes, Standard Single',
     price: '219',
@@ -2800,144 +2638,126 @@ const data = [
     subscript: '/4 pack',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/brogrund-shower-set-with-thermostatic-mixer-chrome-plated__0755271_pe748315_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/brogrund-shower-set-with-thermostatic-mixer-chrome-plated__0755271_pe748315_s5.jpg?f=xxs',
     name: 'BROGRUND',
     description: 'Shower set with thermostatic mixer',
     price: '229',
     link: 'https://www.ikea.com/gb/en/p/brogrund-shower-set-with-thermostatic-mixer-chrome-plated-20342535/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg?f=xxs',
     name: 'EKENÄSET',
     description: 'Armchair',
     price: '229',
     link: 'https://www.ikea.com/gb/en/p/ekenaeset-armchair-kilanda-light-beige-50533492/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ekedalen-kaettil-table-and-2-chairs-white-knisa-light-grey__1016366_pe830345_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ekedalen-kaettil-table-and-2-chairs-white-knisa-light-grey__1016366_pe830345_s5.jpg?f=xxs',
     name: 'EKEDALEN / KÄTTIL',
     description: 'Table and 2 chairs, 80/120 cm',
     price: '259',
     link: 'https://www.ikea.com/gb/en/p/ekedalen-kaettil-table-and-2-chairs-white-knisa-light-grey-s99428828/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ekedalen-ekedalen-table-and-2-chairs-white-ramna-light-grey__0737691_pe741211_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ekedalen-ekedalen-table-and-2-chairs-white-ramna-light-grey__0737691_pe741211_s5.jpg?f=xxs',
     name: 'EKEDALEN / EKEDALEN',
     description: 'Table and 2 chairs, 80/120 cm',
     price: '269',
     link: 'https://www.ikea.com/gb/en/p/ekedalen-ekedalen-table-and-2-chairs-white-ramna-light-grey-s29296869/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/melltorp-kaettil-table-and-4-chairs-white-knisa-light-grey__1016371_pe830349_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/melltorp-kaettil-table-and-4-chairs-white-knisa-light-grey__1016371_pe830349_s5.jpg?f=xxs',
     name: 'MELLTORP / KÄTTIL',
     description: 'Table and 4 chairs, 125 cm',
     price: '275',
     link: 'https://www.ikea.com/gb/en/p/melltorp-kaettil-table-and-4-chairs-white-knisa-light-grey-s89428843/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/valevag-pocket-sprung-mattress-medium-firm-light-blue__1150857_pe884903_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/valevag-pocket-sprung-mattress-medium-firm-light-blue__1150857_pe884903_s5.jpg?f=xxs',
     name: 'VALEVÅG',
     description: 'Pocket sprung mattress, Standard Double',
     price: '279',
     link: 'https://www.ikea.com/gb/en/p/valevag-pocket-sprung-mattress-medium-firm-light-blue-30450732/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/skalan-gas-hob-ikea-500-stainless-steel__1109105_pe869827_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/skalan-gas-hob-ikea-500-stainless-steel__1109105_pe869827_s5.jpg?f=xxs',
     name: 'SKÅLAN',
     description: 'Gas hob, 74 cm',
     price: '279',
     link: 'https://www.ikea.com/gb/en/p/skalan-gas-hob-ikea-500-stainless-steel-80523571/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/svaerta-loft-bed-frame-silver-colour__0636263_pe697763_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/svaerta-loft-bed-frame-silver-colour__0636263_pe697763_s5.jpg?f=xxs',
     name: 'SVÄRTA',
     description: 'Loft bed frame, 90x200 cm',
     price: '289',
     link: 'https://www.ikea.com/gb/en/p/svaerta-loft-bed-frame-silver-colour-20247982/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/matmaessig-induction-hob-ikea-300-black__0854606_pe780691_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/matmaessig-induction-hob-ikea-300-black__0854606_pe780691_s5.jpg?f=xxs',
     name: 'MATMÄSSIG',
     description: 'Induction hob, 59 cm',
     price: '299',
     link: 'https://www.ikea.com/gb/en/p/matmaessig-induction-hob-ikea-300-black-10467093/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/utespelare-matchspel-gaming-desk-and-chair-black__0985655_pe816722_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/utespelare-matchspel-gaming-desk-and-chair-black__0985655_pe816722_s5.jpg?f=xxs',
     name: 'UTESPELARE / MATCHSPEL',
     description: 'Gaming desk and chair',
     price: '300',
     link: 'https://www.ikea.com/gb/en/p/utespelare-matchspel-gaming-desk-and-chair-black-s99440769/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/malm-bed-frame-with-mattress-white-vesteroey-medium-firm__1236209_pe917498_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/malm-bed-frame-with-mattress-white-vesteroey-medium-firm__1236209_pe917498_s5.jpg?f=xxs',
     name: 'MALM',
     description: 'Bed frame with mattress, Standard Single',
     price: '308',
     link: 'https://www.ikea.com/gb/en/p/malm-bed-frame-with-mattress-white-vesteroey-medium-firm-s29544690/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/mattradition-microwave-oven-ikea-300-stainless-steel__0754940_pe748186_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/mattradition-microwave-oven-ikea-300-stainless-steel__0754940_pe748186_s5.jpg?f=xxs',
     name: 'MATTRADITION',
     description: 'Microwave oven',
     price: '315',
     link: 'https://www.ikea.com/gb/en/p/mattradition-microwave-oven-ikea-300-stainless-steel-40368789/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/naemmaroe-table-4-reclining-chairs-outdoor-light-brown-stained__1231266_pe915763_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/naemmaroe-table-4-reclining-chairs-outdoor-light-brown-stained__1231266_pe915763_s5.jpg?f=xxs',
     name: 'NÄMMARÖ',
     description: 'Table+4 reclining chairs, outdoor, 140 cm',
     price: '315',
     link: 'https://www.ikea.com/gb/en/p/naemmaroe-table-4-reclining-chairs-outdoor-light-brown-stained-s69544396/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/mataelskare-microwave-oven-ikea-300-stainless-steel__0754942_pe748188_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/mataelskare-microwave-oven-ikea-300-stainless-steel__0754942_pe748188_s5.jpg?f=xxs',
     name: 'MATÄLSKARE',
     description: 'Microwave oven',
     price: '315',
     link: 'https://www.ikea.com/gb/en/p/mataelskare-microwave-oven-ikea-300-stainless-steel-90368777/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/valevag-pocket-sprung-mattress-medium-firm-light-blue__1150857_pe884903_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/valevag-pocket-sprung-mattress-medium-firm-light-blue__1150857_pe884903_s5.jpg?f=xxs',
     name: 'VALEVÅG',
     description: 'Pocket sprung mattress, Standard King',
     price: '349',
     link: 'https://www.ikea.com/gb/en/p/valevag-pocket-sprung-mattress-medium-firm-light-blue-60470031/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/hemnes-day-bed-frame-with-3-drawers-white__1180454_pe896328_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/hemnes-day-bed-frame-with-3-drawers-white__1180454_pe896328_s5.jpg?f=xxs',
     name: 'HEMNES',
     description: 'Day-bed frame with 3 drawers, 80x200 cm',
     price: '349',
     link: 'https://www.ikea.com/gb/en/p/hemnes-day-bed-frame-with-3-drawers-white-90349326/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/mataelskare-forced-air-oven-ikea-300-stainless-steel__0754910_pe748167_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/mataelskare-forced-air-oven-ikea-300-stainless-steel__0754910_pe748167_s5.jpg?f=xxs',
     name: 'MATÄLSKARE',
     description: 'Forced air oven',
     price: '350',
     link: 'https://www.ikea.com/gb/en/p/mataelskare-forced-air-oven-ikea-300-stainless-steel-10368781/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ekedalen-ingolf-table-and-4-chairs-white-white__1097858_pe865150_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ekedalen-ingolf-table-and-4-chairs-white-white__1097858_pe865150_s5.jpg?f=xxs',
     name: 'EKEDALEN / INGOLF',
     description: 'Table and 4 chairs, 80/120 cm',
     price: '369',
@@ -2951,16 +2771,14 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/hauga-storage-combination-white-s69388640/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/underverk-built-in-extractor-hood-stainless-steel__0755570_pe748469_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/underverk-built-in-extractor-hood-stainless-steel__0755570_pe748469_s5.jpg?f=xxs',
     name: 'UNDERVERK',
     description: 'Built-in extractor hood, 60 cm',
     price: '379',
     link: 'https://www.ikea.com/gb/en/p/underverk-built-in-extractor-hood-stainless-steel-50392326/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ekedalen-ekedalen-table-and-4-chairs-white-white-ramna-light-grey__1111893_pe871008_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ekedalen-ekedalen-table-and-4-chairs-white-white-ramna-light-grey__1111893_pe871008_s5.jpg?f=xxs',
     name: 'EKEDALEN / EKEDALEN',
     description: 'Table and 4 chairs, 80/120 cm',
     price: '389',
@@ -2974,32 +2792,28 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/skogsta-dining-table-acacia-70419264/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/ektorp-2-seat-sofa-kilanda-light-beige__1194833_pe902081_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/ektorp-2-seat-sofa-kilanda-light-beige__1194833_pe902081_s5.jpg?f=xxs',
     name: 'EKTORP',
     description: '2-seat sofa',
     price: '450',
     link: 'https://www.ikea.com/gb/en/p/ektorp-2-seat-sofa-kilanda-light-beige-s09509027/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/mataelskare-pyrolytic-oven-ikea-500-stainless-steel__0754911_pe748168_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/mataelskare-pyrolytic-oven-ikea-500-stainless-steel__0754911_pe748168_s5.jpg?f=xxs',
     name: 'MATÄLSKARE',
     description: 'Pyrolytic oven',
     price: '450',
     link: 'https://www.ikea.com/gb/en/p/mataelskare-pyrolytic-oven-ikea-500-stainless-steel-30381017/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/rengoera-integrated-dishwasher-ikea-300__0846411_pe779069_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/rengoera-integrated-dishwasher-ikea-300__0846411_pe779069_s5.jpg?f=xxs',
     name: 'RENGÖRA',
     description: 'Integrated dishwasher, 60 cm',
     price: '450',
     link: 'https://www.ikea.com/gb/en/p/rengoera-integrated-dishwasher-ikea-300-80475607/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/medelstor-integrated-dishwasher-ikea-500__0846387_pe779051_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/medelstor-integrated-dishwasher-ikea-500__0846387_pe779051_s5.jpg?f=xxs',
     name: 'MEDELSTOR',
     description: 'Integrated dishwasher, 45 cm',
     price: '515',
@@ -3013,32 +2827,28 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/hauga-storage-combination-white-s39387901/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tinad-fridge-freezer-ikea-500-integrated__0985224_pe818281_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tinad-fridge-freezer-ikea-500-integrated__0985224_pe818281_s5.jpg?f=xxs',
     name: 'TINAD',
     description: 'Fridge/freezer, 210/79 l',
     price: '599',
     link: 'https://www.ikea.com/gb/en/p/tinad-fridge-freezer-ikea-500-integrated-90499957/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/tvaettad-integrated-washing-machine-white__0995345_pe821722_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/tvaettad-integrated-washing-machine-white__0995345_pe821722_s5.jpg?f=xxs',
     name: 'TVÄTTAD',
     description: 'Integrated washing machine',
     price: '649',
     link: 'https://www.ikea.com/gb/en/p/tvaettad-integrated-washing-machine-white-20488981/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/friheten-corner-sofa-bed-with-storage-skiftebo-dark-grey__0175610_pe328883_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/friheten-corner-sofa-bed-with-storage-skiftebo-dark-grey__0175610_pe328883_s5.jpg?f=xxs',
     name: 'FRIHETEN',
     description: 'Corner sofa-bed with storage',
     price: '699',
     link: 'https://www.ikea.com/gb/en/p/friheten-corner-sofa-bed-with-storage-skiftebo-dark-grey-s09133543/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/frysa-freezer-ikea-700-integrated__0985217_pe818275_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/frysa-freezer-ikea-700-integrated__0985217_pe818275_s5.jpg?f=xxs',
     name: 'FRYSA',
     description: 'Freezer, 209 l',
     price: '799',
@@ -3052,8 +2862,7 @@ const data = [
     link: 'https://www.ikea.com/gb/en/p/frysa-fridge-ikea-700-integrated-60497276/',
   },
   {
-    image:
-      'https://www.ikea.com/gb/en/images/products/finsmakare-forced-air-oven-w-pyro-steam-func-ikea-700-black__0754883_pe748151_s5.jpg?f=xxs',
+    image: 'https://www.ikea.com/gb/en/images/products/finsmakare-forced-air-oven-w-pyro-steam-func-ikea-700-black__0754883_pe748151_s5.jpg?f=xxs',
     name: 'FINSMAKARE',
     description: 'Forced air oven w pyro/steam func',
     price: '815',
