@@ -1,5 +1,5 @@
 import { For, createSignal } from 'solid-js'
-import { calculatePercentageDifference, createLocalStore } from '~/utils'
+import { calculatePercentageDifference, createLocalStore, gameNumber } from '~/utils'
 
 const Guess = ({ guess, locale, currency }) => {
   if (guess === null) {
@@ -24,21 +24,22 @@ const Guess = ({ guess, locale, currency }) => {
   )
 }
 
-const Input = ({ guess, setGuess, currency }) => {
+const Input = ({ guess, setGuess, symbol }) => {
   return (
     <div class="max-w-96 m-auto flex relative">
       <input
-        class="h-6 rounded-xl min-w-0 w-full bg-ikea-interactive focus:outline-ikea-blue p-8 text-2xl font-bold shadow-md"
+        class="h-16 rounded-xl min-w-0 w-full bg-ikea-interactive focus:outline-ikea-blue py-3 px-12 text-2xl font-bold shadow-md"
         inputmode="decimal"
-        value={`${currency}${guess() ? guess() : ''}`}
+        value={guess()}
         onInput={e => {
-          const newValue = e.target.value.replace(currency, '')
+          const newValue = e.target.value.replace(symbol, '')
           if (newValue.match(/^\d*(\.\d{0,2})?$/)) {
             setGuess(newValue)
           }
-          e.target.value = `${currency}${guess() ? guess() : ''}`
+          e.target.value = guess()
         }}
       />
+      <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-2xl font-bold text-ikea-blue">{symbol}</span>
       <button class="h-6 py-8 px-5 rounded-xl rounded-l-none bg-ikea-blue flex items-center absolute right-0 hover:bg-ikea-blue-dark">
         <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" class="svg-icon">
           <path
@@ -52,20 +53,10 @@ const Input = ({ guess, setGuess, currency }) => {
   )
 }
 
-export default function ClientOnlyGame() {
-  const { symbol, locale, currency } = { symbol: '£', locale: 'en-GB', currency: 'GBP' }
-  const [guesses, setGuesses] = createLocalStore('guesses', [null, null, null, null, null, null])
-  const [result, setResult] = createLocalStore('result', { state: 'PLAYING' })
+export default function ClientOnlyGame({ image, name, description, price, link, subscript, symbol, locale, currency }) {
+  const day = gameNumber()
+  const [game, setGame] = createLocalStore('game', { state: 'PLAYING', guesses: [null, null, null, null, null, null], day })
   const [guess, setGuess] = createSignal('')
-
-  const { image, name, description, price, link, subscript } = {
-    image: 'https://www.ikea.com/gb/en/images/products/kalas-spoon-mixed-colours__1047763_pe843511_s5.jpg?f=xxs',
-    name: 'KALAS',
-    description: 'Spoon',
-    price: '0.75',
-    link: 'https://www.ikea.com/gb/en/p/kalas-spoon-mixed-colours-70455695/',
-    subscript: '/4 pack',
-  }
 
   const onSubmit = e => {
     e.preventDefault()
@@ -73,17 +64,18 @@ export default function ClientOnlyGame() {
 
     const diff = calculatePercentageDifference(guess(), price)
 
-    const updatedGuesses = [...guesses]
+    const updatedGuesses = [...game.guesses]
     const index = updatedGuesses.findIndex(g => g === null)
     updatedGuesses[index] = { value: guess(), result: diff }
 
     if (Math.abs(diff) < 5) {
-      setResult({ state: 'WON' })
+      setGame({ state: 'WON', guesses: updatedGuesses })
     } else if (updatedGuesses.every(g => g !== null)) {
-      setResult({ state: 'LOST' })
+      setGame({ state: 'LOST', guesses: updatedGuesses })
+    } else {
+      setGame({ state: 'PLAYING', guesses: updatedGuesses })
     }
 
-    setGuesses(updatedGuesses)
     setGuess('')
   }
 
@@ -92,13 +84,17 @@ export default function ClientOnlyGame() {
       <img src={image} alt={name} class="w-[200px] h-52 mx-auto mb-2" />
       <h2 class="text-center font-bold">{name}</h2>
       <p class="text-center">{description}</p>
-      <p class="text-center text-2xl font-bold">??? {subscript}</p>
+      <p class="text-center text-2xl font-bold">
+        {game.state === 'PLAYING' ? '???' : new Intl.NumberFormat(locale, { style: 'currency', currency }).format(Number(price))} <span class="text-base">{subscript}</span>
+      </p>
       <div class="flex gap-2 flex-col my-4">
-        <For each={guesses}>{guess => <Guess guess={guess} locale={locale} currency={currency} />}</For>
+        <For each={game.guesses}>{guess => <Guess guess={guess} locale={locale} currency={currency} />}</For>
       </div>
-      <form onSubmit={onSubmit}>
-        <Input guess={guess} setGuess={setGuess} currency={symbol} />
-      </form>
+      {game.state === 'PLAYING' && (
+        <form onSubmit={onSubmit}>
+          <Input guess={guess} setGuess={setGuess} symbol={symbol} />
+        </form>
+      )}
     </div>
   )
 }
