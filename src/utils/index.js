@@ -1,11 +1,11 @@
 import { createEffect } from 'solid-js'
 import { createStore } from 'solid-js/store'
 
-export function createLocalStore(name, init) {
+export function createLocalStore(name, init, options = { permanent: false }) {
   if (typeof window === 'undefined') return createStore(init)
   const localState = localStorage.getItem(name)
   const parsed = JSON.parse(localState)
-  const isNewDay = parsed?.day !== init.day
+  const isNewDay = parsed?.day !== init.day && !options.permanent
 
   if (isNewDay) {
     localStorage.setItem(name, JSON.stringify(init))

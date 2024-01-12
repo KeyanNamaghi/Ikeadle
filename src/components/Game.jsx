@@ -1,62 +1,14 @@
 import { For, createSignal } from 'solid-js'
 import { calculatePercentageDifference, createLocalStore, gameNumber } from '~/utils'
+import { Guess, Help, Input, Share, Stats } from '.'
 
-const Guess = ({ guess, locale, currency }) => {
-  if (guess === null) {
-    return <div class="h-10 rounded-xl w-full bg-ikea-interactive-dark max-w-96 m-auto" />
-  }
-
-  const { value, result } = guess
-  const formatted = new Intl.NumberFormat(locale, { style: 'currency', currency }).format(Number(value))
-
-  if (Math.abs(result) < 5) {
-    return <div class={`grid place-content-center h-10 rounded-xl w-full bg-correct text-correct-text max-w-96 m-auto relative`}>{formatted}</div>
-  }
-
-  const distance = Math.abs(result) > 25 ? 'bg-wrong text-wrong-text' : 'bg-almost text-almost-text'
-  const direction = result > 0 ? '⬆️' : '⬇️'
-
-  return (
-    <div class={`grid place-content-center h-10 rounded-xl w-full ${distance} max-w-96 m-auto relative`}>
-      {formatted}
-      <span class="absolute right-4 top-1/2 transform -translate-y-1/2">{direction}</span>
-    </div>
-  )
-}
-
-const Input = ({ guess, setGuess, symbol }) => {
-  return (
-    <div class="max-w-96 m-auto flex relative">
-      <input
-        class="h-16 rounded-xl min-w-0 w-full bg-ikea-interactive focus:outline-ikea-blue py-3 px-12 text-2xl font-bold shadow-md"
-        inputmode="decimal"
-        value={guess()}
-        onInput={e => {
-          const newValue = e.target.value.replace(symbol, '')
-          if (newValue.match(/^\d*(\.\d{0,2})?$/)) {
-            setGuess(newValue)
-          }
-          e.target.value = guess()
-        }}
-      />
-      <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-2xl font-bold text-ikea-blue">{symbol}</span>
-      <button class="h-6 py-8 px-5 rounded-xl rounded-l-none bg-ikea-blue flex items-center absolute right-0 hover:bg-ikea-blue-dark">
-        <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" class="svg-icon">
-          <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
-            d="M13.98 15.395a6.294 6.294 0 111.414-1.414l4.602 4.601-1.414 1.414-4.602-4.601zm.607-5.101a4.294 4.294 0 11-8.587 0 4.294 4.294 0 018.587 0z"
-            fill="white"></path>
-        </svg>
-      </button>
-    </div>
-  )
-}
-
-export default function ClientOnlyGame({ image, name, description, price, link, subscript, symbol, locale, currency }) {
+export default function Game({ image, name, description, price, link, subscript, symbol, locale, currency, country }) {
   const day = gameNumber()
-  const [game, setGame] = createLocalStore('game', { state: 'PLAYING', guesses: [null, null, null, null, null, null], day })
+  const [game, setGame] = createLocalStore(`game-${locale}`, { state: 'PLAYING', guesses: [null, null, null, null, null, null], day })
+  const [stats, setStats] = createLocalStore(`stats-${locale}`, { numGames: 0, numWins: 0, currentStreak: 0, maxStreak: 0, winsRecord: [0, 0, 0, 0, 0, 0] })
   const [guess, setGuess] = createSignal('')
+  const [showStats, setShowStats] = createSignal(false)
+  const [showHelp, setShowHelp] = createSignal(false)
 
   const onSubmit = e => {
     e.preventDefault()
@@ -70,8 +22,17 @@ export default function ClientOnlyGame({ image, name, description, price, link, 
 
     if (Math.abs(diff) < 5) {
       setGame({ state: 'WON', guesses: updatedGuesses })
+      setStats({
+        ...stats,
+        numGames: stats.numGames + 1,
+        numWins: stats.numWins + 1,
+        currentStreak: stats.currentStreak + 1,
+        maxStreak: Math.max(stats.maxStreak, stats.currentStreak + 1),
+        winsRecord: stats.winsRecord.map((w, i) => (i === index ? w + 1 : w)),
+      })
     } else if (updatedGuesses.every(g => g !== null)) {
       setGame({ state: 'LOST', guesses: updatedGuesses })
+      setStats({ ...stats, numGames: stats.numGames + 1, currentStreak: 0, winsRecord: [...stats.winsRecord.slice(1), 0] })
     } else {
       setGame({ state: 'PLAYING', guesses: updatedGuesses })
     }
@@ -90,11 +51,23 @@ export default function ClientOnlyGame({ image, name, description, price, link, 
       <div class="flex gap-2 flex-col my-4">
         <For each={game.guesses}>{guess => <Guess guess={guess} locale={locale} currency={currency} />}</For>
       </div>
-      {game.state === 'PLAYING' && (
+      {game.state === 'PLAYING' ? (
         <form onSubmit={onSubmit}>
           <Input guess={guess} setGuess={setGuess} symbol={symbol} />
         </form>
+      ) : (
+        <Share state={game.state} guesses={game.guesses} day={day} country={country} />
       )}
+      <div class="flex gap-2 justify-center items-center">
+        <button class="h-6 py-8 px-5 text-ikea-blue font-bold text-base" onClick={() => setShowHelp(true)}>
+          Help
+        </button>
+        <button class="h-6 py-8 px-5 text-ikea-blue font-bold text-base" onClick={() => setShowStats(true)}>
+          Stats
+        </button>
+      </div>
+      {showHelp() && <Help handleClose={setShowHelp} />}
+      {showStats() && <Stats handleClose={setShowStats} {...stats} />}
     </div>
   )
 }
