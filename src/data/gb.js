@@ -1,4 +1,4 @@
-const data = [
+export const data = [
   {
     image: 'https://www.ikea.com/gb/en/images/products/pokal-glass-clear-glass__0713251_pe729361_s5.jpg?f=xxs',
     name: 'POKAL',

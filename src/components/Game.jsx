@@ -1,9 +1,8 @@
 import { For, createSignal } from 'solid-js'
-import { calculatePercentageDifference, createLocalStore, gameNumber } from '~/utils'
+import { calculatePercentageDifference, createLocalStore } from '~/utils'
 import { Guess, Help, Input, Share, Stats } from '.'
 
-export default function Game({ image, name, description, price, link, subscript, symbol, locale, currency, country }) {
-  const day = gameNumber()
+export default function Game({ image, name, description, price, link, subscript, symbol, locale, currency, country, day }) {
   const [game, setGame] = createLocalStore(`game-${locale}`, { state: 'PLAYING', guesses: [null, null, null, null, null, null], day })
   const [stats, setStats] = createLocalStore(`stats-${locale}`, { numGames: 0, numWins: 0, currentStreak: 0, maxStreak: 0, winsRecord: [0, 0, 0, 0, 0, 0] })
   const [guess, setGuess] = createSignal('')

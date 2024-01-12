@@ -24,5 +24,5 @@ export const gameNumber = () => {
   const startDate = new Date('2024-01-12')
   const currentDate = new Date()
   const timeDifference = currentDate - startDate
-  return Math.floor(timeDifference / (1000 * 60 * 60 * 24)) % 530
+  return Math.floor(timeDifference / (1000 * 60 * 60 * 24))
 }

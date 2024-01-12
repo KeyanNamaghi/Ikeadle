@@ -1,4 +1,4 @@
-const data = [
+export const data = [
   {
     image: 'https://www.ikea.com/sk/sk/images/products/citronhaj-korenicka-cire-sklo-nehrdzavejuca-ocel__1196248_pe902858_s5.jpg?f=xxs',
     name: 'CITRONHAJ',
