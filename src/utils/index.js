@@ -8,3 +8,7 @@ export function createLocalStore(name, init) {
   createEffect(() => localStorage.setItem(name, JSON.stringify(state)))
   return [state, setState]
 }
+
+export function calculatePercentageDifference(value, guess) {
+  return ((guess - value) / Math.abs(value)) * 100
+}
