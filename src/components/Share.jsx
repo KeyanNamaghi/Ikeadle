@@ -3,7 +3,9 @@ import { confetti } from '@tsparticles/confetti'
 
 export const Share = ({ state, guesses, day, country }) => {
   createEffect(() => {
-    confetti()
+    if (state === 'WON') {
+      confetti()
+    }
   })
 
   const share = () => {

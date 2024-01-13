@@ -11,7 +11,7 @@ export default function Game({ image, name, description, price, link, subscript,
 
   const onSubmit = e => {
     e.preventDefault()
-    if (guess() === '0') return
+    if (guess() === '0' || guess() === '') return
 
     const diff = calculatePercentageDifference(guess(), price)
 
