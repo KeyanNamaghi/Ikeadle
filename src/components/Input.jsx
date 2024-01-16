@@ -7,8 +7,8 @@ export const Input = ({ guess, setGuess, symbol }) => {
         value={guess()}
         onInput={e => {
           const newValue = e.target.value.replace(symbol, '')
-          if (newValue.match(/^\d*(\.\d{0,2})?$/)) {
-            setGuess(newValue)
+          if (newValue.match(/^\d*((\.|\,)\d{0,2})?$/)) {
+            setGuess(newValue.replace(',', '.'))
           }
           e.target.value = guess()
         }}
