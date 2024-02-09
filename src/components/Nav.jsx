@@ -23,6 +23,16 @@ export default function Nav() {
             Slovensko
           </a>
         </li>
+        <li class={`border-b-2 ${active('/ca')} mx-1 sm:mx-4`}>
+          <a class="p-2" href="/ca">
+            Canada
+          </a>
+        </li>
+        <li class={`border-b-2 ${active('/us')} mx-1 sm:mx-4`}>
+          <a class="p-2" href="/us">
+            USA
+          </a>
+        </li>
       </ul>
     </nav>
   )

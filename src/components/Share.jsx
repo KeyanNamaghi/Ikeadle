@@ -38,7 +38,7 @@ export const Share = ({ state, guesses, day, country }) => {
     <div>
       <p class="text-center text-2xl font-bold mb-4">{state === 'WON' ? 'Congratulations!' : 'Better luck next time'}</p>
       <button
-        class="h-6 py-8 px-5 mx-auto w-96 rounded-xl bg-ikea-blue flex gap-2 justify-center items-center right-0 hover:bg-ikea-blue-dark text-white font-bold"
+        class="h-6 py-8 px-5 mx-auto max-w-96 w-full rounded-xl bg-ikea-blue flex gap-2 justify-center items-center right-0 hover:bg-ikea-blue-dark text-white font-bold"
         onClick={share}>
         <span>Share</span>
         <svg fill="#fff" height="16px" width="16px" viewBox="0 0 481.6 481.6">

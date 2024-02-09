@@ -2,10 +2,10 @@ import { clientOnly } from '@solidjs/start'
 import { gameNumber } from '~/utils'
 import { data } from '~/data/gb'
 
-export default function About() {
+export default function Page() {
   const ClientOnlyGame = clientOnly(() => import('~/components/Game'))
   const currencyData = { symbol: '£', locale: 'en-GB', currency: 'GBP' }
-  const day = gameNumber() % 403
+  const day = gameNumber() % (data.length - 1)
   const daysData = data[day]
 
   return (

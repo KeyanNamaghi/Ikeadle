@@ -15,6 +15,12 @@ export default function Home() {
         <a class="flex-auto" href="/sk">
           <div class="flex justify-center rounded-full shadow-lg p-4 text-2xl bg-ikea-blue hover:bg-ikea-blue-dark text-white">Slovensko</div>
         </a>
+        <a class="flex-auto" href="/ca">
+          <div class="flex justify-center rounded-full shadow-lg p-4 text-2xl bg-ikea-blue hover:bg-ikea-blue-dark text-white">Canada</div>
+        </a>
+        <a class="flex-auto" href="/us">
+          <div class="flex justify-center rounded-full shadow-lg p-4 text-2xl bg-ikea-blue hover:bg-ikea-blue-dark text-white">USA</div>
+        </a>
       </div>
     </main>
   )
